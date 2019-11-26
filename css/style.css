@@ -1,4 +1,4 @@
-﻿@charset "utf-8";
+@charset "utf-8";
 *{
 	font-family: 思源黑体 CN;
 	margin:0px;
@@ -267,7 +267,7 @@ nav ul li:hover{
 }
 
 .container-content .article-list{
-	width:700px;
+	width:1000px;
 	float:left;
 }
 
