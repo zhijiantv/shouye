@@ -6,7 +6,8 @@
 }
 
 body{
-	overflow-x:hidden;
+	overflow-x:hidden;		
+    overflow-y: auto;
 }
 
 a:link {
@@ -74,6 +75,73 @@ a:active {
 body{
 	background:#EBEBEB;
 }
+
+
+	@-webkit-keyframes donghua{
+		0%{
+			transform: rotate(0deg);
+			-ms-transform: rotate(0deg);   /* IE 9 */
+			-moz-transform: rotate(0deg);   /* Firefox */
+			-webkit-transform: rotate(0deg); /* Safari 和 Chrome */
+			-o-transform: rotate(0deg);   /* Opera */
+		}
+		100%{
+			transform: rotate(-360deg);
+			-ms-transform: rotate(-360deg);   /* IE 9 */
+			-moz-transform: rotate(-360deg);   /* Firefox */
+			-webkit-transform: rotate(-360deg); /* Safari 和 Chrome */
+			-o-transform: rotate(-360deg);   /* Opera */
+		}
+	}
+	@-moz-keyframes donghua{
+		0%{
+			transform: rotate(0deg);
+			-ms-transform: rotate(0deg);   /* IE 9 */
+			-moz-transform: rotate(0deg);   /* Firefox */
+			-webkit-transform: rotate(0deg); /* Safari 和 Chrome */
+			-o-transform: rotate(0deg);   /* Opera */
+		}
+		100%{
+			transform: rotate(-360deg);
+			-ms-transform: rotate(-360deg);   /* IE 9 */
+			-moz-transform: rotate(-360deg);   /* Firefox */
+			-webkit-transform: rotate(-360deg); /* Safari 和 Chrome */
+			-o-transform: rotate(-360deg);   /* Opera */
+		}
+	}
+	@-ms-keyframes donghua{
+		0%{
+			transform: rotate(0deg);
+			-ms-transform: rotate(0deg);   /* IE 9 */
+			-moz-transform: rotate(0deg);   /* Firefox */
+			-webkit-transform: rotate(0deg); /* Safari 和 Chrome */
+			-o-transform: rotate(0deg);   /* Opera */
+		}
+		100%{
+			transform: rotate(-360deg);
+			-ms-transform: rotate(-360deg);   /* IE 9 */
+			-moz-transform: rotate(-360deg);   /* Firefox */
+			-webkit-transform: rotate(-360deg); /* Safari 和 Chrome */
+			-o-transform: rotate(-360deg);   /* Opera */
+		}
+	}
+	@-o-keyframes donghua{
+		0%{
+			transform: rotate(0deg);
+			-ms-transform: rotate(0deg);   /* IE 9 */
+			-moz-transform: rotate(0deg);   /* Firefox */
+			-webkit-transform: rotate(0deg); /* Safari 和 Chrome */
+			-o-transform: rotate(0deg);   /* Opera */
+		}
+		100%{
+			transform: rotate(-360deg);
+			-ms-transform: rotate(-360deg);   /* IE 9 */
+			-moz-transform: rotate(-360deg);   /* Firefox */
+			-webkit-transform: rotate(-360deg); /* Safari 和 Chrome */
+			-o-transform: rotate(-360deg);   /* Opera */
+		}
+	}
+
 
 header{
 	width:1000px;
@@ -522,67 +590,3 @@ footer .footer_content p:nth-child(2){
 	text-indent:30px;
 	line-height:40px;
 }
-	@-webkit-keyframes donghua{
-		0%{
-			transform: rotate(0deg);
-			-ms-transform: rotate(0deg);   /* IE 9 */
-			-moz-transform: rotate(0deg);   /* Firefox */
-			-webkit-transform: rotate(0deg); /* Safari 和 Chrome */
-			-o-transform: rotate(0deg);   /* Opera */
-		}
-		100%{
-			transform: rotate(-360deg);
-			-ms-transform: rotate(-360deg);   /* IE 9 */
-			-moz-transform: rotate(-360deg);   /* Firefox */
-			-webkit-transform: rotate(-360deg); /* Safari 和 Chrome */
-			-o-transform: rotate(-360deg);   /* Opera */
-		}
-	}
-	@-moz-keyframes donghua{
-		0%{
-			transform: rotate(0deg);
-			-ms-transform: rotate(0deg);   /* IE 9 */
-			-moz-transform: rotate(0deg);   /* Firefox */
-			-webkit-transform: rotate(0deg); /* Safari 和 Chrome */
-			-o-transform: rotate(0deg);   /* Opera */
-		}
-		100%{
-			transform: rotate(-360deg);
-			-ms-transform: rotate(-360deg);   /* IE 9 */
-			-moz-transform: rotate(-360deg);   /* Firefox */
-			-webkit-transform: rotate(-360deg); /* Safari 和 Chrome */
-			-o-transform: rotate(-360deg);   /* Opera */
-		}
-	}
-	@-ms-keyframes donghua{
-		0%{
-			transform: rotate(0deg);
-			-ms-transform: rotate(0deg);   /* IE 9 */
-			-moz-transform: rotate(0deg);   /* Firefox */
-			-webkit-transform: rotate(0deg); /* Safari 和 Chrome */
-			-o-transform: rotate(0deg);   /* Opera */
-		}
-		100%{
-			transform: rotate(-360deg);
-			-ms-transform: rotate(-360deg);   /* IE 9 */
-			-moz-transform: rotate(-360deg);   /* Firefox */
-			-webkit-transform: rotate(-360deg); /* Safari 和 Chrome */
-			-o-transform: rotate(-360deg);   /* Opera */
-		}
-	}
-	@-o-keyframes donghua{
-		0%{
-			transform: rotate(0deg);
-			-ms-transform: rotate(0deg);   /* IE 9 */
-			-moz-transform: rotate(0deg);   /* Firefox */
-			-webkit-transform: rotate(0deg); /* Safari 和 Chrome */
-			-o-transform: rotate(0deg);   /* Opera */
-		}
-		100%{
-			transform: rotate(-360deg);
-			-ms-transform: rotate(-360deg);   /* IE 9 */
-			-moz-transform: rotate(-360deg);   /* Firefox */
-			-webkit-transform: rotate(-360deg); /* Safari 和 Chrome */
-			-o-transform: rotate(-360deg);   /* Opera */
-		}
-	}
