@@ -1,0 +1,65 @@
+[
+  {
+    "title": "单仓接口",
+    "list": [
+      {
+        "title": "饭太硬",
+        "content": "http://饭太硬.top/tv"
+      },
+      {
+        "title": "肥猫",
+        "content": "http://我不是.肥猫.live/接口禁止贩卖"
+      },
+      {
+        "title": "盒子迷",
+        "content": "https://盒子迷.top/禁止贩卖"
+      },
+      {
+        "title": "摸鱼儿",
+        "content": "http://我不是.摸鱼儿.top"
+      },
+      {
+        "title": "wending",
+        "content": "http://tvbox.稳定接口.com"
+      }
+    ]
+  },
+  {
+    "title": "多仓接口",
+    "list": [
+      {
+        "title": "一木多仓",
+        "content": "https://ghp.ci/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json"
+      },
+      {
+        "title": "V哥多仓",
+        "content": "http://多仓.tvbox.中国"
+      },
+      {
+        "title": "运输多仓",
+        "content": "https://weixine.net/api.json"
+      }
+    ]
+  },
+  {
+    "title": "直播地址",
+    "list": [
+      {
+        "title": "V哥4K直播",
+        "content": "http://4K.tvbox.中国"
+      },
+      {
+        "title": "V哥直播",
+        "content": "http://直播.tvbox.中国"
+      },
+      {
+        "title": "安卓哥直播",
+        "content": "https://安卓哥.com/ZB"
+      },
+      {
+        "title": "盒子迷直播",
+        "content": "https://盒子迷.top/ZB"
+      }
+    ]
+  }
+]
