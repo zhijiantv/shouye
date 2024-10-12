@@ -1,7 +1,7 @@
 [
   {
     "title": "单仓接口",
-    "justlist": [
+    "jsonlist": [
       {
         "title": "饭太硬",
         "content": "http://饭太硬.top/tv"
@@ -26,7 +26,7 @@
   },
   {
     "title": "多仓接口",
-    "justlist": [
+    "jsonlist": [
       {
         "title": "一木多仓",
         "content": "https://ghp.ci/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json"
@@ -43,7 +43,7 @@
   },
   {
     "title": "直播地址",
-    "justlist": [
+    "jsonlist": [
       {
         "title": "V哥4K直播",
         "content": "http://4K.tvbox.中国"
