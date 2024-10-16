@@ -5,10 +5,10 @@
 {
     "id":1001,
     "readNum":241014,
-    "title":"指尖看工具的开发路程①",
-    "desc":"横牫闲来无事，突发奇想，想着要写一款小程序出来。",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/weixin.jpg",
-    "text":"公众号：指尖看世界"
+    "title":"指尖影视app/tv",
+    "desc":"横牫基于TVBox二次开发的免费影视软件，支持安卓手机端，安卓TV端。",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/zhijian.jpg",
+    "text":"https://link3.cc/zhijianTV"
 },
 {
     "id":1002,
