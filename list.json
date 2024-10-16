@@ -12,7 +12,7 @@
 },
 {
     "id":1002,
-    "readNum":241014,
+    "readNum":241016,
     "title":"开源阅读：免费小说app",
     "desc":"阅读是一款可以自定义网络来源内容的阅读工具",
     "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/yuedu.jpg",
@@ -20,7 +20,7 @@
 },
 {
     "id":1003,
-    "readNum":241014,
+    "readNum":241016,
     "title":"洛雪音乐：免费音乐app",
     "desc":"洛雪音乐一款超级好用的支持用户免费畅听各个平台的流行音乐",
     "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/lxmusic.jpg",
@@ -28,7 +28,7 @@
 },
 {
     "id":1004,
-    "readNum":241014,
+    "readNum":241016,
     "title":"Simple Live：聚合直播平台app",
     "desc":"simplelive聚合直播app融合了三大主流的直播平台，包含的直播内容广泛，用户可以自由切换平台来看直播",
     "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/simplelive.png",
