@@ -3,84 +3,34 @@
     "data":
     [
 {
-    "readNum":241016,
-    "title":"小盒子在线直播源",
+    "readNum":241014,
+    "title":"指尖看工具的开发第一课",
     "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/new.txt"
+    "text":"找一个简单的小程序教程视频"
 },
 {
-    "readNum":241016,
-    "title":"V3TV在线直播源",
+    "readNum":241014,
+    "title":"指尖看工具的开发第二课",
     "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/v3tv.txt"
+    "text":"从教程开始时，逐步跟着敲代码"
 },
 {
-    "readNum":241016,
-    "title":"ZBC在线直播源",
+    "readNum":241014,
+    "title":"指尖看工具的开发第三课",
     "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/zbc.txt"
+    "text":"慢慢让一个小程序成型"
 },
 {
-    "readNum":241016,
-    "title":"宝盒在线直播源",
+    "readNum":241014,
+    "title":"指尖看工具的开发第四课",
     "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/bhzb.txt"
+    "text":"逐渐理解小程序代码的含义"
 },
 {
-    "readNum":241016,
-    "title":"天微在线直播源",
+    "readNum":241014,
+    "title":"指尖看工具的开发第五课",
     "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/tvlive.txt"
-
-}
-,
-{
-    "readNum":241016,
-    "title":"春盈天下直播源",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/cytx.txt"
-
-},
-{
-    "readNum":241016,
-    "title":"少儿在线源",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/se.txt"
-
-},
-{
-    "readNum":241016,
-    "title":"DSJ在线源",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/dsj.txt"
-
-},
-{
-    "readNum":241016,
-    "title":"APTV在线源",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/aptv.txt"
-
-},
-{
-    "readNum":241016,
-    "title":"NJ在线源",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/njyy.txt"
-
-},
-{
-    "readNum":241016,
-    "title":"DF在线源",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/dflive.txt"
-
-},
-{
-    "readNum":241016,
-    "title":"IPV6在线源",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/first.jpg",
-    "text":"http://xhztv.top/ipv6.txt"
+    "text":"融入自己的理解，逐步更改代码"
 
 }
 ]
