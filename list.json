@@ -4,6 +4,13 @@
 [
 {
     "readNum":241017,
+    "title":"PC方格音乐：免费、无损",
+    "desc":"方格音乐PC版是一款非常好用的第三方音乐的软件，拥有十分简洁的UI设计的界面、无损的音质和丰富的音乐库的歌曲内容",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/fangge.jpg",
+    "text":"http://morin.vin/"
+},
+{
+    "readNum":241017,
     "title":"PC百度网盘：不限速补丁",
     "desc":"按照教程使用，不保证永远有效，看下载显示进程，不要看下载显示速度",
     "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/baidu.jpg",
