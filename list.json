@@ -3,15 +3,20 @@
     "data":
 [
 {
-    "id":1001,
-    "readNum":241017,
-    "title":"IDM：PC端破解补丁",
-    "desc":"一款专门针对下载软件（IDM）而开发的软件通用破解补丁，又称之为idm通用激活工具、idm通用破解补丁。",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/idm.jpg",
-    "text":"https://www.123684.com/s/pTqA-eBFsA"
+    "readNum":241019,
+    "title":"超强磁力搜索：磁力搜索app",
+    "desc":"超强磁力搜索app最新版是一款好用的磁力资源搜索软件，用户通过超强磁力搜索app可以搜索到很多的磁力资源。",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/cili.jpg",
+    "text":"https://www.123684.com/s/pTqA-kwFsA"
 },
 {
-    "id":1002,
+    "readNum":241019,
+    "title":"柚子下载：资源下载app",
+    "desc":"柚子下载是一款功能强大且用户友好的下载管理工具，专为追求高效下载体验的用户设计。",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/cili.jpg",
+    "text":"https://www.123684.com/s/pTqA-1wFsA"
+},
+{
     "readNum":241017,
     "title":"PC方格音乐：免费、无损",
     "desc":"方格音乐PC版是一款非常好用的第三方音乐的软件，拥有十分简洁的UI设计的界面、无损的音质和丰富的音乐库的歌曲内容",
@@ -19,7 +24,6 @@
     "text":"http://morin.vin/"
 },
 {
-    "id":1003,
     "readNum":241017,
     "title":"PC百度网盘：不限速补丁",
     "desc":"按照教程使用，不保证永远有效，看下载显示进程，不要看下载显示速度",
