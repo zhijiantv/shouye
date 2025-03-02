@@ -1,0 +1,13 @@
+{
+  "banners": [
+    {"id":1, "img":"https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "content":"推广内容1"},
+    {"id":2, "img":"https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "content":"推广内容2"}
+  ],
+  "buttons": [
+    {"id":1, "img":"https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "title":"分类1"},
+    {"id":2, "img":"https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "title":"分类2"}
+  ],
+  "list": [
+    {"id":1, "thumb":"https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "title":"条目1", "update_time":"2023-03-01"}
+  ]
+}
