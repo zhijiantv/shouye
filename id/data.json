@@ -5,14 +5,14 @@
       "name": "无线耳机",
       "price": 299,
       "detail": "蓝牙5.0，24小时续航...",
-      "image": "https://raw.githubusercontent.com/YOURNAME/REPO/main/images/earphone.jpg"
+      "image": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg"
     },
     {
       "id": "1002",
       "name": "智能手表",
       "price": 599,
       "detail": "心率监测，GPS定位...",
-      "image": "https://raw.githubusercontent.com/YOURNAME/REPO/main/images/watch.jpg"
+      "image": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg"
     }
   ]
 }
