@@ -1,26 +1,19 @@
 {
   "banners": [
-    {
-      "id": 1,
-      "imgUrl": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg",
-      "content": "https://example.com/link1"
-    }
+    {"img": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "link": "https://example.com/1"},
+    {"img": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "link": "https://example.com/2"}
   ],
   "buttons": [
-    {
-      "id": 101,
-      "icon": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg",
-      "title": "分类一",
-      "targetId": 1001
-    }
+    {"img": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "id": 1},
+    {"img": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "id": 2}
   ],
-  "contentList": [
+  "list": [
     {
-      "id": 1001,
-      "cover": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg",
-      "title": "示例内容标题",
-      "updateTime": "2023-09-20",
-      "content": "详细内容描述..."
+      "id": 1,
+      "thumb": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg",
+      "title": "标题1",
+      "time": "2023-09-20",
+      "content": "详情内容..."
     }
   ]
 }
