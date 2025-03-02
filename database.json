@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "燕麦半斤",
+      "price": 5.0,
+      "detail": "精选优质燕麦...",
+      "image": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg"
+    },
+    {
+      "id": "002",
+      "name": "果冻礼盒",
+      "price": 15.0,
+      "detail": "混合水果口味...",
+      "image": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg"
+    }
+  ]
+}
