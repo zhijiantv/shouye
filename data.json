@@ -1,0 +1,25 @@
+{
+  "swiper": [
+    {
+      "img": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg",
+      "link": "https://example.com/link1"
+    }
+  ],
+  "buttons": [
+    {
+      "img": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg",
+      "title": "功能1",
+      "targetId": 1001
+    }
+  ],
+  "list": [
+    {
+      "id": 1001,
+      "cover": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg",
+      "title": "示例内容",
+      "content": "这里是详细内容介绍...",
+      "secret": "https://example.com/secret",
+      "time": "2023-08-20"
+    }
+  ]
+}
