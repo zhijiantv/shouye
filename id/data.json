@@ -1,18 +1,18 @@
 {
-  "products": [
+  "items": [
     {
-      "id": "001",
-      "title": "燕麦半斤",
-      "price": 5.0,
-      "detail": "精选优质燕麦原料...",
-      "image": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg"
+      "id": "1",
+      "title": "咖啡豆",
+      "price": 45.9,
+      "detail": "哥伦比亚进口咖啡豆...",
+      "image": "https://raw.githubusercontent.com/yourname/my-miniprogram-data/main/images/coffee.jpg"
     },
     {
-      "id": "002",
-      "title": "果冻礼盒",
-      "price": 15.0,
-      "detail": "混合水果口味果冻...",
-      "image": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg"
+      "id": "2",
+      "title": "陶瓷杯",
+      "price": 29.9,
+      "detail": "手工制作陶瓷马克杯...",
+      "image": "https://raw.githubusercontent.com/yourname/my-miniprogram-data/main/images/cup.jpg"
     }
   ]
 }
