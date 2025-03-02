@@ -5,14 +5,14 @@
       "title": "燕麦半斤",
       "price": 5.0,
       "detail": "精选优质燕麦原料...",
-      "image": "https://raw.githubusercontent.com/yourname/repo/main/images/oat.jpg"
+      "image": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg"
     },
     {
       "id": "002",
       "title": "果冻礼盒",
       "price": 15.0,
       "detail": "混合水果口味果冻...",
-      "image": "https://raw.githubusercontent.com/yourname/repo/main/images/jelly.jpg"
+      "image": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg"
     }
   ]
 }
