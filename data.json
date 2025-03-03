@@ -1,19 +1,23 @@
+// https://yourgithub.com/data.json
 {
-  "banners": [
-    {"img": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "link": "https://example.com/1"},
-    {"img": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "link": "https://example.com/2"}
-  ],
-  "buttons": [
-    {"img": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "id": 1},
-    {"img": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg", "id": 2}
-  ],
-  "list": [
+  "tools": [
     {
-      "id": 1,
-      "thumb": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg",
-      "title": "标题1",
-      "time": "2023-09-20",
-      "content": "详情内容..."
+      "id": "tv001",
+      "title": "指尖影视TV版",
+      "tag": "影视工具",
+      "desc": "基于TVBox二次开发的免费影视软件",
+      "detail": "版本：魔改OK/YSC框架\n支持直播源导入\n更新：2024-10-24",
+      "icon": "https://via.placeholder.com/80x80/1890ff/fff?text=TV", // 蓝色图标
+      "url": "#"
+    },
+    {
+      "id": "soft002",
+      "title": "电脑软件大全",
+      "tag": "办公集合",
+      "desc": "PS/CAD/解压缩工具聚合",
+      "detail": "包含：PS2024专业版\nCAD全版本支持\n更新：2024-10-21",
+      "icon": "https://via.placeholder.com/80x80/1890ff/fff?text=SO",
+      "url": "#"
     }
   ]
 }
