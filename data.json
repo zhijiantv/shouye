@@ -1,23 +1,30 @@
-// https://yourgithub.com/data.json
 {
-  "tools": [
+  "list": [
     {
-      "id": "tv001",
-      "title": "指尖影视TV版",
-      "tag": "影视工具",
-      "desc": "基于TVBox二次开发的免费影视软件",
-      "detail": "版本：魔改OK/YSC框架\n支持直播源导入\n更新：2024-10-24",
-      "icon": "https://via.placeholder.com/80x80/1890ff/fff?text=TV", // 蓝色图标
-      "url": "#"
+      "id": 1,
+      "title": "列表项 1"
     },
     {
-      "id": "soft002",
-      "title": "电脑软件大全",
-      "tag": "办公集合",
-      "desc": "PS/CAD/解压缩工具聚合",
-      "detail": "包含：PS2024专业版\nCAD全版本支持\n更新：2024-10-21",
-      "icon": "https://via.placeholder.com/80x80/1890ff/fff?text=SO",
-      "url": "#"
+      "id": 2,
+      "title": "列表项 2"
+    },
+    {
+      "id": 3,
+      "title": "列表项 3"
+    }
+  ],
+  "detail": [
+    {
+      "id": 1,
+      "content": "这是列表项 1 的详情内容。"
+    },
+    {
+      "id": 2,
+      "content": "这是列表项 2 的详情内容。"
+    },
+    {
+      "id": 3,
+      "content": "这是列表项 3 的详情内容。"
     }
   ]
 }
