@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": "001",
+      "id": "1",
       "title":"🔥指尖影视app/tv🔥",
       "name": "燕麦半斤",
       "price": 20250303,
@@ -9,7 +9,7 @@
       "image": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg"
     },
     {
-      "id": "002",
+      "id": "2",
       "title": "果冻礼盒",
       "name": "果冻礼盒",
       "price": 15.0,
