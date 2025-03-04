@@ -3,6 +3,14 @@
     "data":
 [
 {
+    "id":12,
+    "price":250304,
+    "title":"🔥指尖资源聚合🔥",
+    "desc":"横牫整合了一波资源在这个网站中，资源不断完善中，有需要可以查看",
+    "image":"https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg",
+    "text":"https://zhijiantv.netlify.app/"
+},    
+{
     "id":1,
     "price":241024,
     "title":"🔥指尖影视app/tv🔥",
