@@ -1,22 +1,87 @@
 {
-"status":200,
-"data":
-[
+    "status":200,
+    "data":
+    [
 {
-"image":"https://gitee.com/zhijiantv/shouye/raw/master/image/weixin.jpg",
-"title":"公众号：指尖看世界"
+    "readNum":241016,
+    "title":"小盒子在线直播源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/new.txt"
 },
 {
-"image":"https://gitee.com/zhijiantv/shouye/raw/master/image/QQpd.jpg",
-"title":"QQ频道：指尖看世界"
+    "readNum":241016,
+    "title":"V3TV在线直播源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/v3tv.txt"
 },
 {
-"image":"https://gitee.com/zhijiantv/shouye/raw/master/image/live.jpg",
-"title":"TVBox在线直播源"
+    "readNum":241016,
+    "title":"ZBC在线直播源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/zbc.txt"
 },
 {
-"image":"https://gitee.com/zhijiantv/shouye/raw/master/image/jiekou.jpg",
-"title":"TVBox在线影视接口"
+    "readNum":241016,
+    "title":"宝盒在线直播源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/bhzb.txt"
+},
+{
+    "readNum":241016,
+    "title":"天微在线直播源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/tvlive.txt"
+
+}
+,
+{
+    "readNum":241016,
+    "title":"春盈天下直播源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/cytx.txt"
+
+},
+{
+    "readNum":241016,
+    "title":"少儿在线源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/se.txt"
+
+},
+{
+    "readNum":241016,
+    "title":"DSJ在线源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/dsj.txt"
+
+},
+{
+    "readNum":241016,
+    "title":"APTV在线源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/aptv.txt"
+
+},
+{
+    "readNum":241016,
+    "title":"NJ在线源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/njyy.txt"
+
+},
+{
+    "readNum":241016,
+    "title":"DF在线源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/dflive.txt"
+
+},
+{
+    "readNum":241016,
+    "title":"IPV6在线源",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/image/livelist.jpg",
+    "text":"http://xhztv.top/ipv6.txt"
+
 }
 ]
 }
