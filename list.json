@@ -1,102 +1,46 @@
 {
     "status":200,
     "data":
-[
+    [
 {
-    "id":12,
-    "price":250304,
-    "title":"🔥指尖资源聚合🔥",
-    "desc":"横牫整合了一波资源在这个网站中，资源不断完善中，有需要可以查看",
-    "image":"https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg",
-    "text":"https://zhijiantv.netlify.app/"
-},    
-{
-    "id":1,
-    "price":241024,
-    "title":"🔥指尖影视app/tv🔥",
-    "desc":"横牫基于TVBox二次开发的免费影视软件，并魔改OK/YSC等知名软件。",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/icon.png",
-    "text":"https://link3.cc/zhijianTV"
+    "id":1005,
+    "price":241014,
+    "title":"指尖看工具的开发路程①",
+    "desc":"横牫闲来无事，突发奇想，想着要写一款小程序出来。",
+    "image":"https://s1.imagehub.cc/images/2024/10/26/3a0712470619d15cb02689b0a4af4f9b.jpg",
+    "text":"公众号：指尖看世界"
 },
 {
-    "id":2,
-    "price":241024,
-    "title":"so0000：电脑软件大全",
-    "desc":"这是一个集办公、PS、CAD、解压缩工具等聚合网站。",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/so0000.png",
-    "text":"https://so0000.com/"
+    "id":1004,
+    "price":241014,
+    "title":"指尖看工具的开发路程②",
+    "desc":"有了想法之后，横牫就开始了他的学习之旅",
+    "image":"https://s1.imagehub.cc/images/2024/10/26/3a0712470619d15cb02689b0a4af4f9b.jpg",
+    "text":"公众号：指尖看世界"
 },
 {
-    "id":3,
-    "price":241024,
-    "title":"超强磁力搜索：磁力搜索app",
-    "desc":"超强磁力搜索app最新版是一款好用的磁力资源搜索软件，用户通过超强磁力搜索app可以搜索到很多的磁力资源。",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/cili.jpg",
-    "text":"https://www.123684.com/s/pTqA-kwFsA"
+    "id":1003,
+    "price":241014,
+    "title":"指尖看工具的开发路程③",
+    "desc":"到处寻找小程序开发的教程",
+    "image":"https://s1.imagehub.cc/images/2024/10/26/3a0712470619d15cb02689b0a4af4f9b.jpg",
+    "text":"公众号：指尖看世界"
 },
 {
-    "id":4,
-    "price":241024,
-    "title":"柚子下载：资源下载app",
-    "desc":"柚子下载是一款功能强大且用户友好的下载管理工具，专为追求高效下载体验的用户设计。",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/cili.jpg",
-    "text":"https://www.123684.com/s/pTqA-1wFsA"
+    "id":1002,
+    "price":241014,
+    "title":"指尖看工具的开发路程④",
+    "desc":"根据教程一步一步自行敲代码",
+    "image":"https://s1.imagehub.cc/images/2024/10/26/3a0712470619d15cb02689b0a4af4f9b.jpg",
+    "text":"公众号：指尖看世界"
 },
 {
-    "id":5,
-    "price":241024,
-    "title":"PC方格音乐：免费、无损",
-    "desc":"方格音乐PC版是一款非常好用的第三方音乐的软件，拥有十分简洁的UI设计的界面、无损的音质和丰富的音乐库的歌曲内容",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/fangge.jpg",
-    "text":"http://morin.vin/"
-},
-{
-    "id":6,
-    "price":241024,
-    "title":"PC百度网盘：不限速补丁",
-    "desc":"按照教程使用，不保证永远有效，看下载显示进程，不要看下载显示速度",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/baidu.jpg",
-    "text":"https://www.123684.com/s/pTqA-ZBFsA"
-},
-{
-    "id":7,
-    "price":241024,
-    "title":"OurTV：TV端免费",
-    "desc":"注意，此软件跟央视频不兼容，双方包名一样，只能安装一款！大家只能先卸载一方，再安装另外一方。",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/outyv.png",
-    "text":"https://www.123684.com/s/pTqA-HaFsA"
-},
-{
-    "id":8,
-    "price":241024,
-    "title":"开源阅读：免费小说app",
-    "desc":"阅读是一款可以自定义网络来源内容的阅读工具",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/yuedu.jpg",
-    "text":"http://fb.miaogongzi.cc/"
-},
-{
-    "id":9,
-    "price":241024,
-    "title":"洛雪音乐：免费音乐app",
-    "desc":"洛雪音乐一款超级好用的支持用户免费畅听各个平台的流行音乐",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/lxmusic.jpg",
-    "text":"https://link3.cc/lxmusic"
-},
-{
-    "id":10,
-    "price":241024,
-    "title":"Simple Live：聚合直播平台app",
-    "desc":"simplelive聚合直播app融合了三大主流的直播平台，包含的直播内容广泛，用户可以自由切换平台来看直播",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/simplelive.png",
-    "text":"https://www.123684.com/s/pTqA-TaFsA"
-},
-{
-    "id":11,
-    "price":241024,
-    "title":"新果核音乐2.2：免费的在线的音乐网站",
-    "desc":"免费的在线的音乐网站，资源很丰富，可尝试",
-    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/yinyue.jpg",
-    "text":"https://ghyinyue.com/#/home"
+    "id":1001,
+    "price":241014,
+    "title":"指尖看工具的开发路程⑤",
+    "desc":"最终，指尖看工具出现了",
+    "image":"https://s1.imagehub.cc/images/2024/10/26/3a0712470619d15cb02689b0a4af4f9b.jpg",
+    "text":"公众号：指尖看世界"
 }
 ]
 }
