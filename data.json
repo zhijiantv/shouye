@@ -1,23 +1,5 @@
 {
-  "config": {
-    "validCode": "2024SOFT",
-    "expireHours": 24
-  },
-  "content": {
-    "header": "📦 动态软件资源中心",
-    "resources": [
-      {
-        "title": "7-Zip",
-        "description": "免费开源的压缩文件管理工具，支持多种格式。",
-        "link": "https://www.7-zip.org/",
-        "linkText": "点击获取下载通道"
-      },
-      {
-        "title": "VSCode",
-        "description": "微软推出的轻量级代码编辑器，支持多种编程语言。",
-        "link": "https://code.visualstudio.com/",
-        "linkText": "官方下载直达链接"
-      }
-    ]
-  }
+  "title": "动态标题",
+  "content": "通过GitHub JSON控制的内容",
+  "updateTime": "2025-03-10"
 }
