@@ -4,12 +4,20 @@
     "data":
 [
 {
+    "id":16,
+    "price":250320,
+    "title":"🔥影界APP：发布页🔥",
+    "desc":"横牫基于TVBox二次开发的免费影视软件，并魔改OK/白盒等知名软件。",
+    "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/icon.png",
+    "text":"https://zhijiantv.netlify.app/html/app"
+},     
+{
     "id":15,
     "price":250312,
     "title":"🔞影界：H内置版🔞",
     "desc":"最新版的影界H内置版_2.8.0，这个版本好久没有更新了，把内置的接口也简单更新了下，因为特殊原因，软件安装的时候会有报毒的情况，建议者切勿下载使用！",
     "image":"https://s1.imagehub.cc/images/2025/03/12/7c85407825e77c113c635bec57f9d2c7.jpg",
-    "text":"https://www.123865.com/s/pTqA-auGsA"
+    "text":"https://zhijiantv.netlify.app/html/app"
 },      
 {
     "id":14,
@@ -25,7 +33,7 @@
     "title":"🔥影界：手机+TV🔥",
     "desc":"横牫基于TVBox二次开发的免费影视软件，并魔改OK/白盒等知名软件。",
     "image":"https://gitee.com/zhijiantv/shouye/raw/master/tu/icon.png",
-    "text":"https://www.123865.com/s/pTqA-U0GsA"
+    "text":"https://zhijiantv.netlify.app/html/app"
 },    
 {
     "id":0,
