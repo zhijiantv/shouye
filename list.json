@@ -4,6 +4,14 @@
     "data":
 [
 {
+    "id":17,
+    "price":250324,
+    "title":"开源阅读：使用教程",
+    "desc":"分享几个融合书源，并且搭配使用视频教程",
+    "image":"https://s1.imagehub.cc/images/2024/10/26/7217e334cfe76ac74acc8e611fa5ec9c.jpg",
+    "text":"https://zhijiantv.netlify.app/html/yuedu"
+},       
+{
     "id":16,
     "price":250320,
     "title":"🔥影界APP：发布页🔥",
