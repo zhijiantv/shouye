@@ -1,39 +1,39 @@
 {
 
   "swiperList": [
-    { id: 1, url: 'https://iknow-pic.cdn.bcebos.com/2e2eb9389b504fc2f927c29bf7dde71190ef6d37' },
-    { id: 2, url: 'https://iknow-pic.cdn.bcebos.com/00e93901213fb80e5ea9134924d12f2eb9389437' }
+    { "id": 1, "url": "https://iknow-pic.cdn.bcebos.com/2e2eb9389b504fc2f927c29bf7dde71190ef6d37" },
+    { "id": 2, "url": "https://iknow-pic.cdn.bcebos.com/00e93901213fb80e5ea9134924d12f2eb9389437" }
   ],
-  "sentence": '生活不是等待暴风雨过去，而是学会在雨中起舞',
+  "sentence": "生活不是等待暴风雨过去，而是学会在雨中起舞",
   "btnList": [
-    { id: 1, type: 'my', name: '关于我们', icon: '/images/my.png' },
-    { id: 2, type: 'app',name: '应用工场', icon: '/images/yygc.png' },
-    { id: 3, type: 'dianbo',name: '超清点播', icon: '/images/dianbo.png' },
-    { id: 4, type: 'tv',name: '流畅直播', icon: '/images/live.png' },
-    { id: 5, type: 'music',name: '畅听音乐', icon: '/images/music.png' },
-    { id: 6, type: 'liwai',name: '里应外合', icon: '/images/share.png' },
-    { id: 7, type: 'jiekou',name: '在线接口', icon: '/images/jk.png' },
-    { id: 8, type: 'fenlei',name: '查看分类', icon: '/images/fenlei.png' },
+    { "id": 1, "type": "my", "name": '关于我们', "icon": '/images/my.png' },
+    { "id": 2, "type": 'app',"name": '应用工场', "icon": '/images/yygc.png' },
+    { "id": 3, "type": 'dianbo',"name": '超清点播', "icon": '/images/dianbo.png' },
+    { "id": 4, "type": 'tv',"name": '流畅直播', "icon": '/images/live.png' },
+    { "id": 5, "type": 'music',"name": '畅听音乐', "icon": '/images/music.png' },
+    { "id": 6, "type": 'liwai',"name": '里应外合', "icon": '/images/share.png' },
+    { "id": 7, "type": 'jiekou',"name": '在线接口', "icon": '/images/jk.png' },
+    { "id": 8, "type": 'fenlei',"name": '查看分类', "icon": '/images/fenlei.png' },
     // 其他按钮数据...
   ],
 
   "listData":{
   "my": [ 
-    { id: 101, img: '/images/index-bg1.jpg', title: '指尖 | 导航' ,tags:["最新版","激励广告"]},
-    { id: 102, img: '/images/index-bg1.jpg', title: '指尖 | 备用' ,tags:["最新版","激励广告"]},
+    { "id": 101, "img": '/images/index-bg1.jpg', "title": '指尖 | 导航' ,"tags":["最新版","激励广告"]},
+    { "id": 102, "img": '/images/index-bg1.jpg', "title": '指尖 | 备用' ,"tags":["最新版","激励广告"]},
   ],
   "app": [
-    { id: 201, img: '/images/index-bg1.jpg', title: '应用工场' ,tags:["最新版","激励广告"]},
+    { "id": 201, "img": '/images/index-bg1.jpg', "title": '应用工场' ,"tags":["最新版","激励广告"]},
   ],
   "dianbo": [
-    { id: 301, img: '/images/index-bg1.jpg', title: '超清点播' ,tags:["最新版","激励广告"]},
+    { "id": 301, "img": '/images/index-bg1.jpg', "title": '超清点播' ,"tags":["最新版","激励广告"]},
   ],
   },
 
   "ads": {
-    101: { title: '指尖 | 导航', img: '/images/index-bg1.jpg',content: '横牫自建网站' ,desc: '最新链接',text: '点击复制链接',link: '指尖.top'},
-    102: { title: '指尖 | 备用', img: '/images/index-bg1.jpg',content: '横牫自建网站' ,desc: '备用链接',text: '点击复制链接',link: '指尖.top'},
-    201: { title: '外套广告', img: '/images/index-bg1.jpg',content: '新品上市8折' ,desc: '喜欢赶紧购买',text: '点击复制链接',link: '指尖.top'},
+    101: { "title": '指尖 | 导航', "img": '/images/index-bg1.jpg',"content": '横牫自建网站' ,"desc": '最新链接',"text": '点击复制链接',"link": '指尖.top'},
+    102: { "title": '指尖 | 备用', "img": '/images/index-bg1.jpg',"content": '横牫自建网站' ,"desc": '备用链接',"text": '点击复制链接',"link": '指尖.top'},
+    201: { "title": '外套广告', "img": '/images/index-bg1.jpg',"content": '新品上市8折' ,"desc": '喜欢赶紧购买',"text": '点击复制链接',"link": '指尖.top'},
     // ...其他广告数据
   },
 
@@ -42,10 +42,10 @@
     '系统维护：4月5日0:00-2:00'
   ],
   "wallpaperList": [
-    { id: 1001, thumb: 'https://wx4.sinaimg.cn/mw690/005PQ2RCgy1htl2b3nng7j30u01t17wh.jpg', url: 'https://wx4.sinaimg.cn/mw690/005PQ2RCgy1htl2b3nng7j30u01t17wh.jpg' },
-    { id: 1002, thumb: 'https://ww1.sinaimg.cn/mw690/b8d27dadgy1htgfu908fdj20u01t1to8.jpg', url: 'https://ww1.sinaimg.cn/mw690/b8d27dadgy1htgfu908fdj20u01t1to8.jpg' },
-    { id: 1003, thumb: 'https://img0.baidu.com/it/u=366099275,2473333856&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=1083', url: 'https://img0.baidu.com/it/u=366099275,2473333856&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=1083' },
-    { id: 1004, thumb: 'https://img1.baidu.com/it/u=2623531344,1444651714&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=1083', url: 'https://img1.baidu.com/it/u=2623531344,1444651714&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=1083' }
+    { "id": 1001, "thumb": 'https://wx4.sina"img".cn/mw690/005PQ2RCgy1htl2b3nng7j30u01t17wh.jpg', "url": 'https://wx4.sina"img".cn/mw690/005PQ2RCgy1htl2b3nng7j30u01t17wh.jpg' },
+    { "id": 1002, "thumb": 'https://ww1.sina"img".cn/mw690/b8d27dadgy1htgfu908fdj20u01t1to8.jpg', "url": 'https://ww1.sina"img".cn/mw690/b8d27dadgy1htgfu908fdj20u01t1to8.jpg' },
+    { "id": 1003, "thumb": 'https://"img"0.ba"id"u.com/it/u=366099275,2473333856&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=1083', "url": 'https://"img"0.ba"id"u.com/it/u=366099275,2473333856&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=1083' },
+    { "id": 1004, "thumb": 'https://"img"1.ba"id"u.com/it/u=2623531344,1444651714&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=1083', "url": 'https://"img"1.ba"id"u.com/it/u=2623531344,1444651714&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=1083' }
     // 其他壁纸数据...
   ]
 
