@@ -79,18 +79,100 @@
       {
         "id": 201,
         "img": "/images/index-bg1.jpg",
-        "title": "应用工场",
+        "title": "应用工场1",
         "tags": ["最新版", "激励广告"]
-      }
+      },
+      {
+        "id": 202,
+        "img": "/images/index-bg1.jpg",
+        "title": "应用工场2",
+        "tags": ["最新版", "激励广告"]
+      }	  
     ],
     "dianbo": [
       {
         "id": 301,
         "img": "/images/index-bg1.jpg",
-        "title": "超清点播",
+        "title": "超清点播1",
         "tags": ["最新版", "激励广告"]
-      }
-    ]
+      },
+      {
+        "id": 302,
+        "img": "/images/index-bg1.jpg",
+        "title": "超清点播2",
+        "tags": ["最新版", "激励广告"]
+      },	  
+    ],
+    "tv": [
+      {
+        "id": 401,
+        "img": "/images/index-bg1.jpg",
+        "title": "流畅直播1",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 402,
+        "img": "/images/index-bg1.jpg",
+        "title": "流畅直播2",
+        "tags": ["最新版", "激励广告"]
+      },	  
+    ],	
+    "music": [
+      {
+        "id": 501,
+        "img": "/images/index-bg1.jpg",
+        "title": "畅听音乐1",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 502,
+        "img": "/images/index-bg1.jpg",
+        "title": "畅听音乐2",
+        "tags": ["最新版", "激励广告"]
+      },	  
+    ],	
+    "liwai": [
+      {
+        "id": 601,
+        "img": "/images/index-bg1.jpg",
+        "title": "里应外合1",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 602,
+        "img": "/images/index-bg1.jpg",
+        "title": "里应外合2",
+        "tags": ["最新版", "激励广告"]
+      },	  
+    ],	
+    "jiekou": [
+      {
+        "id": 701,
+        "img": "/images/index-bg1.jpg",
+        "title": "在线接口1",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 702,
+        "img": "/images/index-bg1.jpg",
+        "title": "在线接口2",
+        "tags": ["最新版", "激励广告"]
+      },	  
+    ],	
+    "fenlei": [
+      {
+        "id": 801,
+        "img": "/images/index-bg1.jpg",
+        "title": "查看分类1",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 802,
+        "img": "/images/index-bg1.jpg",
+        "title": "查看分类2",
+        "tags": ["最新版", "激励广告"]
+      },	  
+    ]	
   },
   "ads": {
     "101": {
@@ -110,13 +192,37 @@
       "link": "指尖.top"
     },
     "201": {
-      "title": "外套广告",
+      "title": "应用工场1",
       "img": "/images/index-bg1.jpg",
-      "content": "新品上市8折",
-      "desc": "喜欢赶紧购买",
+      "content": "app1",
+	  "desc": "喜欢赶紧下载",
       "text": "点击复制链接",
       "link": "指尖.top"
-    }
+    },
+    "202": {
+      "title": "应用工场2",
+      "img": "/images/index-bg1.jpg",
+      "content": "app2",
+	  "desc": "喜欢赶紧下载",
+      "text": "点击复制链接",
+      "link": "指尖.top"
+    },	
+    "301": {
+      "title": "超清点播1",
+      "img": "/images/index-bg1.jpg",
+      "content": "点播1",
+	  "desc": "喜欢赶紧下载",
+      "text": "点击复制链接",
+      "link": "指尖.top"
+    },
+    "302": {
+      "title": "超清点播2",
+      "img": "/images/index-bg1.jpg",
+      "content": "点播2",
+	  "desc": "喜欢赶紧下载",
+      "text": "点击复制链接",
+      "link": "指尖.top"
+    },	
   },
   "notices": [
     "最新活动：春日主题壁纸已上线",
