@@ -1,6 +1,5 @@
 {
     "status":200,
-    "data":[
   swiperList: [
     { id: 1, url: 'https://iknow-pic.cdn.bcebos.com/2e2eb9389b504fc2f927c29bf7dde71190ef6d37' },
     { id: 2, url: 'https://iknow-pic.cdn.bcebos.com/00e93901213fb80e5ea9134924d12f2eb9389437' }
@@ -51,5 +50,5 @@
   ]
 
 
-  ]
+  
 }
