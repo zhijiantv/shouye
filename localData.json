@@ -31,9 +31,9 @@
   },
 
   "ads": {
-    101: { "title": "指尖 | 导航", "img": "/images/index-bg1.jpg","content": "横牫自建网站" ,"desc": "最新链接","text": "点击复制链接","link": "指尖.top"},
-    102: { "title": "指尖 | 备用", "img": "/images/index-bg1.jpg","content": "横牫自建网站" ,"desc": "备用链接","text": "点击复制链接","link": "指尖.top"},
-    201: { "title": "外套广告", "img": "/images/index-bg1.jpg","content": "新品上市8折" ,"desc": "喜欢赶紧购买","text": "点击复制链接","link": "指尖.top"},
+    "101": { "title": "指尖 | 导航", "img": "/images/index-bg1.jpg","content": "横牫自建网站" ,"desc": "最新链接","text": "点击复制链接","link": "指尖.top"},
+    "102": { "title": "指尖 | 备用", "img": "/images/index-bg1.jpg","content": "横牫自建网站" ,"desc": "备用链接","text": "点击复制链接","link": "指尖.top"},
+    "201": { "title": "外套广告", "img": "/images/index-bg1.jpg","content": "新品上市8折" ,"desc": "喜欢赶紧购买","text": "点击复制链接","link": "指尖.top"},
     // ...其他广告数据
   },
 
