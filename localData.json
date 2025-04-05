@@ -133,8 +133,14 @@
       {
         "id": 501,
         "img": "/images/index-bg1.jpg",
-        "title": "等待添加",
-        "tags": ["最新版", "激励广告"]
+        "title": "mMusicFree",
+        "tags": ["官网", "激励广告"]
+      },
+      {
+        "id": 502,
+        "img": "/images/index-bg1.jpg",
+        "title": "洛雪音乐",
+        "tags": ["官网", "激励广告"]
       } 
     ],	
     "liwai": [
@@ -226,7 +232,23 @@
       "desc": "速度很快，画质清晰",
       "text": "点击复制链接",
       "link": "https://www.123865.com/s/pTqA-zVGsA"
-    },
+    }, 
+    "501": {
+      "title": "MusicFree",
+      "img": "/images/index-bg1.jpg",
+      "content": "一个插件化的音乐播放器",
+      "desc": "官网下载地址",
+      "text": "点击复制链接",
+      "link": "https://musicfree.catcat.work/"
+    },    
+    "502": {
+      "title": "洛雪音乐",
+      "img": "/images/index-bg1.jpg",
+      "content": "一个插件化的音乐播放器",
+      "desc": "官网下载地址",
+      "text": "点击复制链接",
+      "link": "https://www.lxmusic.cc/"
+    },       
     "701": {
       "title": "影界-在线接口",
       "img": "/images/index-bg1.jpg",
