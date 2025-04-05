@@ -60,7 +60,36 @@
       "icon": "/images/fenlei.png"
     }
   ],
-  
+    "listData": {
+    "my": [
+      {
+        "id": 101,
+        "img": "/images/index-bg1.jpg",
+        "title": "指尖 | 导航",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 102,
+        "img": "/images/index-bg1.jpg",
+        "title": "指尖 | 备用",
+        "tags": ["最新版", "激励广告"]
+      }
+    ],
+    "app": [
+      {
+        "id": 201,
+        "img": "/images/index-bg1.jpg",
+        "title": "应用工场1",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 202,
+        "img": "/images/index-bg1.jpg",
+        "title": "应用工场2",
+        "tags": ["最新版", "激励广告"]
+      }	  
+    ]
+    },
   "notices": [
     "最新活动：春日主题壁纸已上线",
     "系统维护：4月5日0:00-2:00"
