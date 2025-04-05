@@ -133,7 +133,7 @@
       {
         "id": 501,
         "img": "/images/index-bg1.jpg",
-        "title": "mMusicFree",
+        "title": "MusicFree",
         "tags": ["官网", "激励广告"]
       },
       {
@@ -141,7 +141,19 @@
         "img": "/images/index-bg1.jpg",
         "title": "洛雪音乐",
         "tags": ["官网", "激励广告"]
-      } 
+      },
+      {
+        "id": 503,
+        "img": "/images/index-bg1.jpg",
+        "title": "Alger Music",
+        "tags": ["在线音乐", "激励广告"]
+      },
+      {
+        "id": 504,
+        "img": "/images/index-bg1.jpg",
+        "title": "聆听音乐",
+        "tags": ["音乐app", "激励广告"]
+      }  
     ],	
     "liwai": [
       {
@@ -248,7 +260,23 @@
       "desc": "官网下载地址",
       "text": "点击复制链接",
       "link": "https://www.lxmusic.cc/"
-    },       
+    }, 
+    "503": {
+      "title": "Alger Music",
+      "img": "/images/index-bg1.jpg",
+      "content": "在线音乐播放网站",
+      "desc": "官网地址",
+      "text": "点击复制链接",
+      "link": "http://mc.alger.fun/#/"
+    },  
+    "504": {
+      "title": "聆听音乐",
+      "img": "/images/index-bg1.jpg",
+      "content": "免费音乐app",
+      "desc": "网盘下载",
+      "text": "点击复制链接",
+      "link": "https://dmla.lanzouv.com/b05nwey6f"
+    },      
     "701": {
       "title": "影界-在线接口",
       "img": "/images/index-bg1.jpg",
