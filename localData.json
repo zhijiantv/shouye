@@ -66,54 +66,66 @@
         "id": 101,
         "img": "/images/index-bg1.jpg",
         "title": "指尖 | 导航",
-        "tags": ["最新版", "激励广告"]
+        "tags": ["指尖网站", "激励广告"]
       },
       {
         "id": 102,
         "img": "/images/index-bg1.jpg",
         "title": "指尖 | 备用",
-        "tags": ["最新版", "激励广告"]
+        "tags": ["指尖网站", "激励广告"]
+      },
+      {
+        "id": 103,
+        "img": "/images/index-bg1.jpg",
+        "title": "影界 | TVBox",
+        "tags": ["下载地址", "激励广告"]
       }
     ],
     "app": [
       {
         "id": 201,
         "img": "/images/index-bg1.jpg",
-        "title": "应用工场1",
+        "title": "应用管家",
         "tags": ["最新版", "激励广告"]
       },
       {
         "id": 202,
         "img": "/images/index-bg1.jpg",
-        "title": "应用工场2",
+        "title": "等待添加",
         "tags": ["最新版", "激励广告"]
-      }	  
+      }
     ],
     "dianbo": [
       {
         "id": 301,
         "img": "/images/index-bg1.jpg",
-        "title": "超清点播1",
+        "title": "影视仓",
         "tags": ["最新版", "激励广告"]
       },
       {
         "id": 302,
         "img": "/images/index-bg1.jpg",
-        "title": "超清点播2",
+        "title": "OK影视",
         "tags": ["最新版", "激励广告"]
-      }	  
+      },
+      {
+        "id": 303,
+        "img": "/images/index-bg1.jpg",
+        "title": "FongMi影视",
+        "tags": ["最新版", "激励广告"]
+      }	 	  
     ],
     "tv": [
       {
         "id": 401,
         "img": "/images/index-bg1.jpg",
-        "title": "流畅直播1",
-        "tags": ["最新版", "激励广告"]
+        "title": "OurTV",
+        "tags": ["TV直播", "激励广告"]
       },
       {
         "id": 402,
         "img": "/images/index-bg1.jpg",
-        "title": "流畅直播2",
+        "title": "等待添加",
         "tags": ["最新版", "激励广告"]
       }	  
     ],	
@@ -121,57 +133,33 @@
       {
         "id": 501,
         "img": "/images/index-bg1.jpg",
-        "title": "畅听音乐1",
+        "title": "等待添加",
         "tags": ["最新版", "激励广告"]
-      },
-      {
-        "id": 502,
-        "img": "/images/index-bg1.jpg",
-        "title": "畅听音乐2",
-        "tags": ["最新版", "激励广告"]
-      }	  
+      } 
     ],	
     "liwai": [
       {
         "id": 601,
         "img": "/images/index-bg1.jpg",
-        "title": "里应外合1",
+        "title": "等待添加",
         "tags": ["最新版", "激励广告"]
-      },
-      {
-        "id": 602,
-        "img": "/images/index-bg1.jpg",
-        "title": "里应外合2",
-        "tags": ["最新版", "激励广告"]
-      }	  
+      } 
     ],	
     "jiekou": [
       {
         "id": 701,
         "img": "/images/index-bg1.jpg",
-        "title": "在线接口1",
+        "title": "等待添加",
         "tags": ["最新版", "激励广告"]
-      },
-      {
-        "id": 702,
-        "img": "/images/index-bg1.jpg",
-        "title": "在线接口2",
-        "tags": ["最新版", "激励广告"]
-      }	  
+      }  
     ],	
     "fenlei": [
       {
         "id": 801,
         "img": "/images/index-bg1.jpg",
-        "title": "查看分类1",
+        "title": "等待添加",
         "tags": ["最新版", "激励广告"]
-      },
-      {
-        "id": 802,
-        "img": "/images/index-bg1.jpg",
-        "title": "查看分类2",
-        "tags": ["最新版", "激励广告"]
-      }	  
+      }  
     ]	
     },
     "ads": {
@@ -181,7 +169,7 @@
       "content": "横牫自建网站",
       "desc": "最新链接",
       "text": "点击复制链接",
-      "link": "指尖.top"
+      "link": "https://zhijiantv.netlify.app/"
     },
     "102": {
       "title": "指尖 | 备用",
@@ -189,44 +177,60 @@
       "content": "横牫自建网站",
       "desc": "备用链接",
       "text": "点击复制链接",
-      "link": "指尖.top"
+      "link": "https://link3.cc/zhijiantv"
     },
+    "103": {
+      "title": "影界 | TVBox",
+      "img": "/images/index-bg1.jpg",
+      "content": "横牫魔改TVBox，免费观影软件",
+      "desc": "影界发布页",
+      "text": "点击复制链接",
+      "link": "https://zhijiantv.netlify.app/html/app"
+    },	    
     "201": {
-      "title": "应用工场1",
+      "title": "应用管家",
       "img": "/images/index-bg1.jpg",
-      "content": "app1",
-	  "desc": "喜欢赶紧下载",
+      "content": "电视/车机的应用管理app",
+      "desc": "官网网盘",
       "text": "点击复制链接",
-      "link": "指尖.top"
-    },
-    "202": {
-      "title": "应用工场2",
-      "img": "/images/index-bg1.jpg",
-      "content": "app2",
-	  "desc": "喜欢赶紧下载",
-      "text": "点击复制链接",
-      "link": "指尖.top"
+      "link": "https://www.123pan.cn/s/k7plVv-kxHtv"
     },	
     "301": {
-      "title": "超清点播1",
+      "title": "影视仓",
       "img": "/images/index-bg1.jpg",
-      "content": "点播1",
-	  "desc": "喜欢赶紧下载",
+      "content": "多仓版TVBox，免费观影app",
+      "desc": "官方网盘",
       "text": "点击复制链接",
-      "link": "指尖.top"
+      "link": "https://pan.quark.cn/s/61d324167c07#/list/share"
     },
     "302": {
-      "title": "超清点播2",
+      "title": "OK影视",
       "img": "/images/index-bg1.jpg",
-      "content": "点播2",
-	  "desc": "喜欢赶紧下载",
+      "content": "单仓版TVBox，免费观影app",
+      "desc": "官方网盘",
       "text": "点击复制链接",
-      "link": "指尖.top"
+      "link": "https://pan.quark.cn/s/6fead79bddaf#/list/share"
+    },
+    "303": {
+      "title": "FongMi影视",
+      "img": "/images/index-bg1.jpg",
+      "content": "单仓版TVBox，免费观影app",
+      "desc": "官方网盘",
+      "text": "点击复制链接",
+      "link": "https://pan.quark.cn/s/b2a52c2577f8#/list/share"
+    },
+    "401": {
+      "title": "OurTV",
+      "img": "/images/index-bg1.jpg",
+      "content": "电视TV软件，跟央视频同包名",
+      "desc": "速度很快，画质清晰",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-zVGsA"
     }	
     },
   "notices": [
-    "最新活动：春日主题壁纸已上线",
-    "系统维护：4月5日0:00-2:00"
+    "最新版本：微信小程序上线",
+    "上线时间：4月5日19:00-20:00"
   ],
   "wallpaperList": [
     {
