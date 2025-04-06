@@ -43,8 +43,8 @@
     },
     {
       "id": 6,
-      "type": "liwai",
-      "name": "里应外合",
+      "type": "yuedu",
+      "name": "开源阅读",
       "icon": "/images/share.png"
     },
     {
@@ -155,13 +155,25 @@
         "tags": ["音乐app", "激励广告"]
       }  
     ],	
-    "liwai": [
+    "yueud": [
       {
         "id": 601,
         "img": "/images/index-bg1.jpg",
-        "title": "等待添加",
-        "tags": ["最新版", "激励广告"]
-      } 
+        "title": "喵公子",
+        "tags": ["发布页", "激励广告"]
+      },
+      {
+        "id": 602,
+        "img": "/images/index-bg1.jpg",
+        "title": "一程·书源",
+        "tags": ["阅读书源", "激励广告"]
+      },
+      {
+        "id": 603,
+        "img": "/images/index-bg1.jpg",
+        "title": "黑猫小说",
+        "tags": ["小说APP", "激励广告"]
+      }  
     ],	
     "jiekou": [
       {
@@ -175,8 +187,8 @@
       {
         "id": 801,
         "img": "/images/index-bg1.jpg",
-        "title": "等待添加",
-        "tags": ["最新版", "激励广告"]
+        "title": "HEU_KMS",
+        "tags": ["激活工具", "激励广告"]
       }  
     ]	
     },
@@ -276,7 +288,31 @@
       "desc": "网盘下载",
       "text": "点击复制链接",
       "link": "https://dmla.lanzouv.com/b05nwey6f"
-    },      
+    },  
+    "601": {
+      "title": "喵公子",
+      "img": "/images/index-bg1.jpg",
+      "content": "开源阅读下载+阅读书源",
+      "desc": "喵公子发布页",
+      "text": "点击复制链接",
+      "link": "http://fb.miaogongzi.cc/"
+    },  
+    "602": {
+      "title": "一程·书源",
+      "img": "/images/index-bg1.jpg",
+      "content": "开源阅读书源",
+      "desc": "一程书源",
+      "text": "点击复制链接",
+      "link": "https://flowus.cn/ycheng/share/923f5a35-6dcf-47d1-b8eb-b9c5ef3ed39b"
+    },  
+    "603": {
+      "title": "黑猫小说",
+      "img": "/images/index-bg1.jpg",
+      "content": "全网小说无限制免费阅读",
+      "desc": "安卓阅读APP",
+      "text": "点击复制链接",
+      "link": "http://heimao.ink/"
+    },    
     "701": {
       "title": "影界-在线接口",
       "img": "/images/index-bg1.jpg",
@@ -284,6 +320,14 @@
       "desc": "在线接口",
       "text": "点击复制链接",
       "link": "https://docker.zeronews.cc/zhijian/yingjie/raw/branch/master/jk.json"
+    },    
+    "801": {
+      "title": "HEU_KMS",
+      "img": "/images/index-bg1.jpg",
+      "content": "windows、office激活工具",
+      "desc": "网盘密码：9xum",
+      "text": "点击复制链接",
+      "link": "https://wwi.lanzoup.com/b05gumbe"
     }	
     },
   "notices": [
