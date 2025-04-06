@@ -125,7 +125,7 @@
       {
         "id": 402,
         "img": "/images/index-bg1.jpg",
-        "title": "等待添加",
+        "title": "Simple Live",
         "tags": ["最新版", "激励广告"]
       }	  
     ],	
@@ -153,7 +153,13 @@
         "img": "/images/index-bg1.jpg",
         "title": "聆听音乐",
         "tags": ["音乐app", "激励广告"]
-      }  
+      },
+      {
+        "id": 505,
+        "img": "/images/index-bg1.jpg",
+        "title": "青听音乐",
+        "tags": ["音乐app", "激励广告"]
+      }   
     ],	
     "yuedu": [
       {
@@ -256,6 +262,14 @@
       "desc": "速度很快，画质清晰",
       "text": "点击复制链接",
       "link": "https://www.123865.com/s/pTqA-zVGsA"
+    },
+    "402": {
+      "title": "Simple Live",
+      "img": "/images/index-bg1.jpg",
+      "content": "一款专为直播爱好者打造的聚合型直播软件",
+      "desc": "v1.7.6",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-JjGsA"
     }, 
     "501": {
       "title": "MusicFree",
@@ -288,6 +302,14 @@
       "desc": "网盘下载",
       "text": "点击复制链接",
       "link": "https://dmla.lanzouv.com/b05nwey6f"
+    },  
+    "505": {
+      "title": "青听音乐",
+      "img": "/images/index-bg1.jpg",
+      "content": "v1.0.5最新版",
+      "desc": "网盘下载",
+      "text": "点击复制链接",
+      "link": "https://www.yuque.com/kejichangqing/oldlma/ugoixqhds7aw993x?singleDoc#"
     },  
     "601": {
       "title": "喵公子",
