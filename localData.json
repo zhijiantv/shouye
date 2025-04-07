@@ -183,6 +183,12 @@
         "img": "/images/index-bg1.jpg",
         "title": "青听音乐",
         "tags": ["音乐app", "激励广告"]
+      },
+      {
+        "id": 506,
+        "img": "/images/index-bg1.jpg",
+        "title": "方格音乐",
+        "tags": ["PC音乐", "激励广告"]
       }   
     ],	
     "yuedu": [
@@ -219,7 +225,13 @@
         "img": "/images/index-bg1.jpg",
         "title": "HEU_KMS",
         "tags": ["激活工具", "激励广告"]
-      }  
+      },
+      {
+        "id": 802,
+        "img": "/images/index-bg1.jpg",
+        "title": "Watt Toolkit",
+        "tags": ["steam++", "激励广告"]
+      }
     ]	
     },
     "ads": {
@@ -367,6 +379,14 @@
       "text": "点击复制链接",
       "link": "https://www.yuque.com/kejichangqing/oldlma/ugoixqhds7aw993x?singleDoc#"
     },  
+    "506": {
+      "title": "方格音乐",
+      "img": "/images/index-bg1.jpg",
+      "content": "电脑端免费音乐播放器",
+      "desc": "官方网站",
+      "text": "点击复制链接",
+      "link": "http://fonger.top/"
+    },  
     "601": {
       "title": "喵公子",
       "img": "/images/index-bg1.jpg",
@@ -406,6 +426,14 @@
       "desc": "网盘密码：9xum",
       "text": "点击复制链接",
       "link": "https://wwi.lanzoup.com/b05gumbe"
+    },    
+    "802": {
+      "title": "Watt Toolkit",
+      "img": "/images/index-bg1.jpg",
+      "content": "是一个开源跨平台的多功能 Steam 工具箱",
+      "desc": "免费加速Github",
+      "text": "点击复制链接",
+      "link": "https://steampp.net/"
     }	
     },
   "notices": [
