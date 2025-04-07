@@ -199,6 +199,12 @@
       {
         "id": 506,
         "img": "/images/index-bg1.jpg",
+        "title": "音悦",
+        "tags": ["音乐app", "激励广告"]
+      },
+      {
+        "id": 507,
+        "img": "/images/index-bg1.jpg",
         "title": "方格音乐",
         "tags": ["PC音乐", "激励广告"]
       }   
@@ -412,6 +418,14 @@
       "link": "https://www.yuque.com/kejichangqing/oldlma/ugoixqhds7aw993x?singleDoc#"
     },  
     "506": {
+      "title": "音悦",
+      "img": "/images/index-bg1.jpg",
+      "content": "免费音乐app",
+      "desc": "网盘下载",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-TTPsA"
+    },  
+    "507": {
       "title": "方格音乐",
       "img": "/images/index-bg1.jpg",
       "content": "电脑端免费音乐播放器",
