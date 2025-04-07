@@ -227,9 +227,15 @@
       {
         "id": 701,
         "img": "/images/index-bg1.jpg",
-        "title": "影界",
+        "title": "影界·接口",
         "tags": ["最新版", "激励广告"]
-      }  
+      },
+      {
+        "id": 702,
+        "img": "/images/index-bg1.jpg",
+        "title": "FuLi·接口",
+        "tags": ["福利接口", "激励广告"]
+      }      
     ],	
     "fenlei": [
       {
@@ -444,6 +450,14 @@
       "desc": "在线接口",
       "text": "点击复制链接",
       "link": "https://docker.zeronews.cc/zhijian/yingjie/raw/branch/master/jk.json"
+    },    
+    "702": {
+      "title": "FuLi-在线接口",
+      "img": "/images/index-bg1.jpg",
+      "content": "晚上躲被窝里面使用",
+      "desc": "福利接口",
+      "text": "点击复制链接",
+      "link": "https://raw.dgithub.xyz/zhijiantv/yingjie/refs/heads/master/FuLi.json"
     },    
     "801": {
       "title": "HEU_KMS",
