@@ -227,6 +227,12 @@
         "img": "/images/index-bg1.jpg",
         "title": "黑猫小说",
         "tags": ["小说APP", "激励广告"]
+      },
+      {
+        "id": 604,
+        "img": "/images/index-bg1.jpg",
+        "title": "飞鸟听书",
+        "tags": ["听书APP", "激励广告"]
       }  
     ],	
     "jiekou": [
@@ -456,6 +462,14 @@
       "desc": "安卓阅读APP",
       "text": "点击复制链接",
       "link": "http://heimao.ink/"
+    },  
+    "604": {
+      "title": "飞鸟听书",
+      "img": "/images/index-bg1.jpg",
+      "content": "全网小说免费听书",
+      "desc": "安卓听书APP",
+      "text": "点击复制链接",
+      "link": "http://fn678.top/"
     },    
     "701": {
       "title": "影界-在线接口",
