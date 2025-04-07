@@ -143,7 +143,13 @@
         "img": "/images/index-bg1.jpg",
         "title": "可可影视",
         "tags": ["官方发布页", "激励广告"]
-      }	 	  
+      },
+      {
+        "id": 308,
+        "img": "/images/index-bg1.jpg",
+        "title": "小苹果TV",
+        "tags": ["内置TVBox", "激励广告"]
+      }		 	  
     ],
     "tv": [
       {
@@ -237,6 +243,12 @@
         "img": "/images/index-bg1.jpg",
         "title": "Watt Toolkit",
         "tags": ["steam++", "激励广告"]
+      },
+      {
+        "id": 803,
+        "img": "/images/index-bg1.jpg",
+        "title": "IDM激活工具",
+        "tags": ["激活工具", "激励广告"]
       }
     ]	
     },
@@ -328,6 +340,14 @@
       "desc": "官方发布页",
       "text": "点击复制链接",
       "link": "https://dl.kkys03.com/"
+    },
+    "307": {
+      "title": "小苹果TV",
+      "img": "/images/index-bg1.jpg",
+      "content": "TVBox内置接口版",
+      "desc": "官方发布页",
+      "text": "点击复制链接",
+      "link": "http://xpgtv.com/"
     },
     "401": {
       "title": "OurTV",
@@ -440,6 +460,14 @@
       "desc": "免费加速Github",
       "text": "点击复制链接",
       "link": "https://steampp.net/"
+    },    
+    "803": {
+      "title": "IDM激活工具",
+      "img": "/images/index-bg1.jpg",
+      "content": "一键激活IDM下载工具",
+      "desc": "实测可用",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-LjGsA"
     }	
     },
   "notices": [
