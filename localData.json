@@ -113,6 +113,30 @@
         "img": "/images/index-bg1.jpg",
         "title": "FongMi影视",
         "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 304,
+        "img": "/images/index-bg1.jpg",
+        "title": "好好看",
+        "tags": ["官方发布页", "激励广告"]
+      },
+      {
+        "id": 305,
+        "img": "/images/index-bg1.jpg",
+        "title": "大师兄影视",
+        "tags": ["官方发布页", "激励广告"]
+      },
+      {
+        "id": 306,
+        "img": "/images/index-bg1.jpg",
+        "title": "网飞猫",
+        "tags": ["官方发布页", "激励广告"]
+      },
+      {
+        "id": 307,
+        "img": "/images/index-bg1.jpg",
+        "title": "可可影视",
+        "tags": ["官方发布页", "激励广告"]
       }	 	  
     ],
     "tv": [
@@ -254,6 +278,38 @@
       "desc": "官方网盘",
       "text": "点击复制链接",
       "link": "https://pan.quark.cn/s/b2a52c2577f8#/list/share"
+    },
+    "304": {
+      "title": "好好看",
+      "img": "/images/index-bg1.jpg",
+      "content": "多端免费追剧软件",
+      "desc": "官方发布页",
+      "text": "点击复制链接",
+      "link": "https://dl.hhkan0.com/"
+    },
+    "305": {
+      "title": "大师兄影视",
+      "img": "/images/index-bg1.jpg",
+      "content": "多端免费追剧软件",
+      "desc": "官方发布页",
+      "text": "点击复制链接",
+      "link": "http://dsxys.pro/app/"
+    },
+    "306": {
+      "title": "网飞猫",
+      "img": "/images/index-bg1.jpg",
+      "content": "多端免费追剧软件",
+      "desc": "官方发布页",
+      "text": "点击复制链接",
+      "link": "https://dl.ncat21.com:51111/"
+    },
+    "307": {
+      "title": "可可影视",
+      "img": "/images/index-bg1.jpg",
+      "content": "多端免费追剧软件",
+      "desc": "官方发布页",
+      "text": "点击复制链接",
+      "link": "https://dl.kkys03.com/"
     },
     "401": {
       "title": "OurTV",
