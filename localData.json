@@ -84,7 +84,7 @@
         "id": 103,
         "img": "/images/index-bg1.jpg",
         "title": "影界 | TVBox",
-        "tags": ["下载地址", "激励广告"]
+        "tags": ["250407", "激励广告"]
       }
     ],
     "app": [
@@ -282,7 +282,7 @@
       "link": "https://link3.cc/zhijiantv"
     },
     "103": {
-      "title": "影界 | TVBox",
+      "title": "影界 | 手机版",
       "img": "/images/index-bg1.jpg",
       "content": "横牫魔改TVBox，免费观影软件",
       "desc": "影界发布页",
