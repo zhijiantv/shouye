@@ -44,7 +44,7 @@
     {
       "id": 6,
       "type": "yuedu",
-      "name": "里应外合",
+      "name": "开源阅读",
       "icon": "/images/share.png"
     },
     {
@@ -65,133 +65,292 @@
       {
         "id": 101,
         "img": "/images/index-bg1.jpg",
-        "title": "指尖看世界",
-        "tags": ["公众号", "激励广告"]
+        "title": "指尖 | 导航",
+        "tags": ["指尖网站", "激励广告"]
+      },
+      {
+        "id": 102,
+        "img": "/images/index-bg1.jpg",
+        "title": "指尖 | 备用",
+        "tags": ["指尖网站", "激励广告"]
+      },
+      {
+        "id": 103,
+        "img": "/images/index-bg1.jpg",
+        "title": "影界 | TVBox",
+        "tags": ["下载地址", "激励广告"]
       }
     ],
     "app": [
-
       {
         "id": 201,
         "img": "/images/index-bg1.jpg",
-        "title": "应用宝",
-        "tags": ["官网", "激励广告"]
+        "title": "应用管家",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 202,
+        "img": "/images/index-bg1.jpg",
+        "title": "等待添加",
+        "tags": ["最新版", "激励广告"]
       }
     ],
     "dianbo": [
       {
         "id": 301,
         "img": "/images/index-bg1.jpg",
-        "title": "腾讯视频",
-        "tags": ["官网", "激励广告"]
-      } 	  
+        "title": "影视仓",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 302,
+        "img": "/images/index-bg1.jpg",
+        "title": "OK影视",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 303,
+        "img": "/images/index-bg1.jpg",
+        "title": "FongMi影视",
+        "tags": ["最新版", "激励广告"]
+      }	 	  
     ],
     "tv": [
       {
         "id": 401,
         "img": "/images/index-bg1.jpg",
-        "title": "央视频",
-        "tags": ["官网", "激励广告"]
-      } 
+        "title": "OurTV",
+        "tags": ["TV直播", "激励广告"]
+      },
+      {
+        "id": 402,
+        "img": "/images/index-bg1.jpg",
+        "title": "Simple Live",
+        "tags": ["最新版", "激励广告"]
+      }	  
     ],	
     "music": [
       {
         "id": 501,
         "img": "/images/index-bg1.jpg",
-        "title": "QQ音乐",
+        "title": "MusicFree",
         "tags": ["官网", "激励广告"]
-      } 
+      },
+      {
+        "id": 502,
+        "img": "/images/index-bg1.jpg",
+        "title": "洛雪音乐",
+        "tags": ["官网", "激励广告"]
+      },
+      {
+        "id": 503,
+        "img": "/images/index-bg1.jpg",
+        "title": "Alger Music",
+        "tags": ["在线音乐", "激励广告"]
+      },
+      {
+        "id": 504,
+        "img": "/images/index-bg1.jpg",
+        "title": "聆听音乐",
+        "tags": ["音乐app", "激励广告"]
+      },
+      {
+        "id": 505,
+        "img": "/images/index-bg1.jpg",
+        "title": "青听音乐",
+        "tags": ["音乐app", "激励广告"]
+      }   
     ],	
     "yuedu": [
       {
         "id": 601,
         "img": "/images/index-bg1.jpg",
-        "title": "QQ阅读",
-        "tags": ["官网", "激励广告"]
-      }
+        "title": "喵公子",
+        "tags": ["发布页", "激励广告"]
+      },
+      {
+        "id": 602,
+        "img": "/images/index-bg1.jpg",
+        "title": "一程·书源",
+        "tags": ["阅读书源", "激励广告"]
+      },
+      {
+        "id": 603,
+        "img": "/images/index-bg1.jpg",
+        "title": "黑猫小说",
+        "tags": ["小说APP", "激励广告"]
+      }  
     ],	
     "jiekou": [
       {
         "id": 701,
         "img": "/images/index-bg1.jpg",
-        "title": "指尖看世界",
-        "tags": ["QQ频道", "激励广告"]
-      }
+        "title": "影界",
+        "tags": ["最新版", "激励广告"]
+      }  
     ],	
     "fenlei": [
       {
         "id": 801,
         "img": "/images/index-bg1.jpg",
-        "title": "网易云音乐",
-        "tags": ["最新版", "激励广告"]
-      }
+        "title": "HEU_KMS",
+        "tags": ["激活工具", "激励广告"]
+      }  
     ]	
     },
     "ads": {
     "101": {
-      "title": "指尖 | 看世界",
+      "title": "指尖 | 导航",
       "img": "/images/index-bg1.jpg",
-      "content": "微信公众号",
+      "content": "横牫自建网站",
       "desc": "最新链接",
       "text": "点击复制链接",
       "link": "https://zhijiantv.netlify.app/"
     },
-     "201": {
-      "title": "应用宝",
+    "102": {
+      "title": "指尖 | 备用",
       "img": "/images/index-bg1.jpg",
-      "content": "电脑上玩手机游戏",
-      "desc": "官方网站",
+      "content": "横牫自建网站",
+      "desc": "备用链接",
       "text": "点击复制链接",
-      "link": "https://sj.qq.com/"
+      "link": "https://link3.cc/zhijiantv"
     },
-     "301": {
-      "title": "腾讯视频",
+    "103": {
+      "title": "影界 | TVBox",
       "img": "/images/index-bg1.jpg",
-      "content": "中国领先的在线媒体平台",
-      "desc": "官方网站",
+      "content": "横牫魔改TVBox，免费观影软件",
+      "desc": "影界发布页",
       "text": "点击复制链接",
-      "link": "https://v.qq.com/"
+      "link": "https://zhijiantv.netlify.app/html/app"
+    },	    
+    "201": {
+      "title": "应用管家",
+      "img": "/images/index-bg1.jpg",
+      "content": "电视/车机的应用管理app",
+      "desc": "官网网盘",
+      "text": "点击复制链接",
+      "link": "https://www.123pan.cn/s/k7plVv-kxHtv"
+    },	
+    "301": {
+      "title": "影视仓",
+      "img": "/images/index-bg1.jpg",
+      "content": "多仓版TVBox，免费观影app",
+      "desc": "官方网盘",
+      "text": "点击复制链接",
+      "link": "https://pan.quark.cn/s/61d324167c07#/list/share"
     },
-     "401": {
-      "title": "央视频",
+    "302": {
+      "title": "OK影视",
       "img": "/images/index-bg1.jpg",
-      "content": "央视频直播app",
-      "desc": "官方网站",
+      "content": "单仓版TVBox，免费观影app",
+      "desc": "官方网盘",
       "text": "点击复制链接",
-      "link": "https://www.yangshipin.cn/"
+      "link": "https://pan.quark.cn/s/6fead79bddaf#/list/share"
     },
-     "501": {
-      "title": "QQ音乐",
+    "303": {
+      "title": "FongMi影视",
       "img": "/images/index-bg1.jpg",
-      "content": "腾讯音乐流媒体平台",
-      "desc": "官方网站",
+      "content": "单仓版TVBox，免费观影app",
+      "desc": "官方网盘",
       "text": "点击复制链接",
-      "link": "https://y.qq.com/"
+      "link": "https://pan.quark.cn/s/b2a52c2577f8#/list/share"
     },
-     "601": {
-      "title": "QQ阅读",
+    "401": {
+      "title": "OurTV",
       "img": "/images/index-bg1.jpg",
-      "content": "腾讯小说阅读平台",
-      "desc": "官方网站",
+      "content": "电视TV软件，跟央视频同包名",
+      "desc": "速度很快，画质清晰",
       "text": "点击复制链接",
-      "link": "https://book.qq.com/"
+      "link": "https://www.123865.com/s/pTqA-zVGsA"
     },
-     "701": {
-      "title": "QQ频道",
+    "402": {
+      "title": "Simple Live",
       "img": "/images/index-bg1.jpg",
-      "content": "腾讯QQ打造的多元兴趣交流的组织管理工具",
-      "desc": "官方网站",
+      "content": "一款专为直播爱好者打造的聚合型直播软件",
+      "desc": "v1.7.6",
       "text": "点击复制链接",
-      "link": "https://pd.qq.com/g/26728c73m5"
-    },
-     "801": {
-      "title": "网易云音乐",
+      "link": "https://www.123865.com/s/pTqA-JjGsA"
+    }, 
+    "501": {
+      "title": "MusicFree",
       "img": "/images/index-bg1.jpg",
-      "content": "一款由网易开发的音乐产品",
-      "desc": "官方网站",
+      "content": "一个插件化的音乐播放器",
+      "desc": "官网下载地址",
       "text": "点击复制链接",
-      "link": "https://music.163.com/"
-    }
+      "link": "https://musicfree.catcat.work/"
+    },    
+    "502": {
+      "title": "洛雪音乐",
+      "img": "/images/index-bg1.jpg",
+      "content": "一个插件化的音乐播放器",
+      "desc": "官网下载地址",
+      "text": "点击复制链接",
+      "link": "https://www.lxmusic.cc/"
+    }, 
+    "503": {
+      "title": "Alger Music",
+      "img": "/images/index-bg1.jpg",
+      "content": "在线音乐播放网站",
+      "desc": "官网地址",
+      "text": "点击复制链接",
+      "link": "http://mc.alger.fun/#/"
+    },  
+    "504": {
+      "title": "聆听音乐",
+      "img": "/images/index-bg1.jpg",
+      "content": "免费音乐app",
+      "desc": "网盘下载",
+      "text": "点击复制链接",
+      "link": "https://dmla.lanzouv.com/b05nwey6f"
+    },  
+    "505": {
+      "title": "青听音乐",
+      "img": "/images/index-bg1.jpg",
+      "content": "v1.0.5最新版",
+      "desc": "网盘下载",
+      "text": "点击复制链接",
+      "link": "https://www.yuque.com/kejichangqing/oldlma/ugoixqhds7aw993x?singleDoc#"
+    },  
+    "601": {
+      "title": "喵公子",
+      "img": "/images/index-bg1.jpg",
+      "content": "开源阅读下载+阅读书源",
+      "desc": "喵公子发布页",
+      "text": "点击复制链接",
+      "link": "http://fb.miaogongzi.cc/"
+    },  
+    "602": {
+      "title": "一程·书源",
+      "img": "/images/index-bg1.jpg",
+      "content": "开源阅读书源",
+      "desc": "一程书源",
+      "text": "点击复制链接",
+      "link": "https://flowus.cn/ycheng/share/923f5a35-6dcf-47d1-b8eb-b9c5ef3ed39b"
+    },  
+    "603": {
+      "title": "黑猫小说",
+      "img": "/images/index-bg1.jpg",
+      "content": "全网小说无限制免费阅读",
+      "desc": "安卓阅读APP",
+      "text": "点击复制链接",
+      "link": "http://heimao.ink/"
+    },    
+    "701": {
+      "title": "影界-在线接口",
+      "img": "/images/index-bg1.jpg",
+      "content": "横牫自用，不定时更新",
+      "desc": "在线接口",
+      "text": "点击复制链接",
+      "link": "https://docker.zeronews.cc/zhijian/yingjie/raw/branch/master/jk.json"
+    },    
+    "801": {
+      "title": "HEU_KMS",
+      "img": "/images/index-bg1.jpg",
+      "content": "windows、office激活工具",
+      "desc": "网盘密码：9xum",
+      "text": "点击复制链接",
+      "link": "https://wwi.lanzoup.com/b05gumbe"
+    }	
     },
   "notices": [
     "最新版本：微信小程序上线",
@@ -220,11 +379,6 @@
     },
     {
       "id": 1005,
-      "thumb": "https://s1.imagehub.cc/images/2025/04/06/51510e79f4b496409467c9aa64f6c9ed.webp",
-      "url": "https://s1.imagehub.cc/images/2025/04/06/51510e79f4b496409467c9aa64f6c9ed.webp"
-    },
-    {
-      "id": 1006,
       "thumb": "https://s1.imagehub.cc/images/2025/04/06/51510e79f4b496409467c9aa64f6c9ed.webp",
       "url": "https://s1.imagehub.cc/images/2025/04/06/51510e79f4b496409467c9aa64f6c9ed.webp"
     }
