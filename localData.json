@@ -97,6 +97,12 @@
       {
         "id": 202,
         "img": "/images/index-bg1.jpg",
+        "title": "柚子下载",
+        "tags": ["官方网站", "激励广告"]
+      },
+      {
+        "id": 203,
+        "img": "/images/index-bg1.jpg",
         "title": "等待添加",
         "tags": ["最新版", "激励广告"]
       }
@@ -163,7 +169,13 @@
         "img": "/images/index-bg1.jpg",
         "title": "Simple Live",
         "tags": ["最新版", "激励广告"]
-      }	  
+      },
+      {
+        "id": 403,
+        "img": "/images/index-bg1.jpg",
+        "title": "小飞电视",
+        "tags": ["官方网站", "激励广告"]
+      }		  
     ],	
     "music": [
       {
@@ -302,6 +314,14 @@
       "desc": "官网网盘",
       "text": "点击复制链接",
       "link": "https://www.123pan.cn/s/k7plVv-kxHtv"
+    },	    
+    "202": {
+      "title": "柚子下载",
+      "img": "/images/index-bg1.jpg",
+      "content": "一个很棒的磁力下载应用",
+      "desc": "官网下载",
+      "text": "点击复制链接",
+      "link": "http://xscy.vip/youzi/"
     },	
     "301": {
       "title": "影视仓",
@@ -382,6 +402,14 @@
       "desc": "v1.7.6",
       "text": "点击复制链接",
       "link": "https://www.123865.com/s/pTqA-JjGsA"
+    },
+    "402": {
+      "title": "小飞电视",
+      "img": "/images/index-bg1.jpg",
+      "content": "畅享超高清电视直播",
+      "desc": "官网下载",
+      "text": "点击复制链接",
+      "link": "http://y977.com/tv/"
     }, 
     "501": {
       "title": "MusicFree",
