@@ -291,9 +291,16 @@
       "title": "影界 | 手机版",
       "img": "/images/index-bg1.jpg",
       "content": "横牫魔改TVBox，免费观影软件",
+      {
       "desc": "影界发布页",
       "text": "点击复制链接",
       "link": "https://zhijiantv.netlify.app/html/app"
+    },
+      {
+      "desc": "影界发布页",
+      "text": "点击复制链接",
+      "link": "https://zhijiantv.netlify.app/html/app"
+    }
     },	    
     "201": {
       "title": "应用管家",
