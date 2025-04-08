@@ -265,6 +265,12 @@
         "img": "/images/index-bg1.jpg",
         "title": "饭太硬",
         "tags": ["大佬接口", "激励广告"]
+      },
+      {
+        "id": 704,
+        "img": "/images/index-bg1.jpg",
+        "title": "欧歌",
+        "tags": ["大佬接口", "激励广告"]
       }      
     ],	
     "fenlei": [
@@ -528,6 +534,14 @@
       "desc": "大佬接口",
       "text": "点击复制链接",
       "link": "http://www.饭太硬.net/tv/"
+    },    
+    "704": {
+      "title": "欧歌",
+      "img": "/images/index-bg1.jpg",
+      "content": "欧歌-大佬接口",
+      "desc": "复制到浏览器打开查看",
+      "text": "点击复制链接",
+      "link": "http://tv.nxog.top/m/"
     },    
     "801": {
       "title": "HEU_KMS",
