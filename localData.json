@@ -71,14 +71,8 @@
       {
         "id": 101,
         "img": "/images/index-bg1.jpg",
-        "title": "指尖 | 导航",
-        "tags": ["指尖网站", "激励广告"]
-      },
-      {
-        "id": 102,
-        "img": "/images/index-bg1.jpg",
-        "title": "指尖 | 备用",
-        "tags": ["指尖网站", "激励广告"]
+        "title": "小程序 | 开发者工具",
+        "tags": ["官网", "激励广告"]
       }
     ],
     "app": [
@@ -182,20 +176,12 @@
     },
     "ads": {
     "101": {
-      "title": "指尖 | 导航",
+      "title": "小程序 | 开发者工具",
       "img": "/images/index-bg1.jpg",
-      "content": "横牫自建网站",
-      "desc": "最新链接",
+      "content": "微信开发者工具",
+      "desc": "官网下载",
       "text": "点击复制链接",
-      "link": "https://指尖.top/"
-    },
-    "102": {
-      "title": "指尖 | 备用",
-      "img": "/images/index-bg1.jpg",
-      "content": "横牫自建网站",
-      "desc": "备用链接",
-      "text": "点击复制链接",
-      "link": "https://zhijiantv.netlify.app/"
+      "link": "https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html"
     },	    
     "201": {
       "title": "应用宝",
