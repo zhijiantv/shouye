@@ -103,8 +103,14 @@
       {
         "id": 203,
         "img": "/images/index-bg1.jpg",
-        "title": "等待添加",
-        "tags": ["最新版", "激励广告"]
+        "title": "Magnet-Robot",
+        "tags": ["磁力搜索", "激励广告"]
+      },
+      {
+        "id": 204,
+        "img": "/images/index-bg1.jpg",
+        "title": "超强磁力搜索",
+        "tags": ["磁力搜索", "激励广告"]
       }
     ],
     "dianbo": [
@@ -346,6 +352,22 @@
       "desc": "官网下载",
       "text": "点击复制链接",
       "link": "http://xscy.vip/youzi/"
+    },	    
+    "203": {
+      "title": "Magnet-Robot",
+      "img": "/images/index-bg1.jpg",
+      "content": "多搜索引擎的磁力搜索app",
+      "desc": "v1.2.4",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-R3PsA"
+    },	    
+    "204": {
+      "title": "超强磁力搜索",
+      "img": "/images/index-bg1.jpg",
+      "content": "多搜索引擎的磁力搜索app",
+      "desc": "v1.1.1",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-D3PsA"
     },	
     "301": {
       "title": "影视仓",
@@ -403,7 +425,7 @@
       "text": "点击复制链接",
       "link": "https://dl.kkys03.com/"
     },
-    "307": {
+    "308": {
       "title": "小苹果TV",
       "img": "/images/index-bg1.jpg",
       "content": "TVBox内置接口版",
