@@ -79,26 +79,14 @@
         "img": "/images/index-bg1.jpg",
         "title": "指尖 | 备用",
         "tags": ["指尖网站", "激励广告"]
-      },
-      {
-        "id": 103,
-        "img": "/images/index-bg1.jpg",
-        "title": "影界 | TVBox",
-        "tags": ["250407", "激励广告"]
       }
     ],
     "app": [
       {
         "id": 201,
         "img": "/images/index-bg1.jpg",
-        "title": "应用管家",
+        "title": "应用宝",
         "tags": ["最新版", "激励广告"]
-      },
-      {
-        "id": 202,
-        "img": "/images/index-bg1.jpg",
-        "title": "柚子下载",
-        "tags": ["官方网站", "激励广告"]
       },
       {
         "id": 203,
@@ -111,198 +99,84 @@
       {
         "id": 301,
         "img": "/images/index-bg1.jpg",
-        "title": "影视仓",
+        "title": "腾讯视频",
         "tags": ["最新版", "激励广告"]
       },
       {
         "id": 302,
         "img": "/images/index-bg1.jpg",
-        "title": "OK影视",
+        "title": "等待添加",
         "tags": ["最新版", "激励广告"]
-      },
-      {
-        "id": 303,
-        "img": "/images/index-bg1.jpg",
-        "title": "FongMi影视",
-        "tags": ["最新版", "激励广告"]
-      },
-      {
-        "id": 304,
-        "img": "/images/index-bg1.jpg",
-        "title": "好好看",
-        "tags": ["官方发布页", "激励广告"]
-      },
-      {
-        "id": 305,
-        "img": "/images/index-bg1.jpg",
-        "title": "大师兄影视",
-        "tags": ["官方发布页", "激励广告"]
-      },
-      {
-        "id": 306,
-        "img": "/images/index-bg1.jpg",
-        "title": "网飞猫",
-        "tags": ["官方发布页", "激励广告"]
-      },
-      {
-        "id": 307,
-        "img": "/images/index-bg1.jpg",
-        "title": "可可影视",
-        "tags": ["官方发布页", "激励广告"]
-      },
-      {
-        "id": 308,
-        "img": "/images/index-bg1.jpg",
-        "title": "小苹果TV",
-        "tags": ["内置TVBox", "激励广告"]
-      }		 	  
+      }	 	  
     ],
     "tv": [
       {
         "id": 401,
         "img": "/images/index-bg1.jpg",
-        "title": "OurTV",
+        "title": "央视频",
         "tags": ["TV直播", "激励广告"]
       },
       {
         "id": 402,
         "img": "/images/index-bg1.jpg",
-        "title": "Simple Live",
+        "title": "等待添加",
         "tags": ["最新版", "激励广告"]
-      },
-      {
-        "id": 403,
-        "img": "/images/index-bg1.jpg",
-        "title": "小飞电视",
-        "tags": ["官方网站", "激励广告"]
-      }		  
+      }	  
     ],	
     "music": [
       {
         "id": 501,
         "img": "/images/index-bg1.jpg",
-        "title": "MusicFree",
+        "title": "QQ音乐",
         "tags": ["官网", "激励广告"]
       },
       {
         "id": 502,
         "img": "/images/index-bg1.jpg",
-        "title": "洛雪音乐",
-        "tags": ["官网", "激励广告"]
-      },
-      {
-        "id": 503,
-        "img": "/images/index-bg1.jpg",
-        "title": "Alger Music",
-        "tags": ["在线音乐", "激励广告"]
-      },
-      {
-        "id": 504,
-        "img": "/images/index-bg1.jpg",
-        "title": "聆听音乐",
-        "tags": ["音乐app", "激励广告"]
-      },
-      {
-        "id": 505,
-        "img": "/images/index-bg1.jpg",
-        "title": "青听音乐",
-        "tags": ["音乐app", "激励广告"]
-      },
-      {
-        "id": 506,
-        "img": "/images/index-bg1.jpg",
-        "title": "音悦",
-        "tags": ["音乐app", "激励广告"]
-      },
-      {
-        "id": 507,
-        "img": "/images/index-bg1.jpg",
-        "title": "方格音乐",
-        "tags": ["PC音乐", "激励广告"]
-      }   
+        "title": "等待添加",
+        "tags": ["等待添加", "激励广告"]
+      }  
     ],	
     "yuedu": [
       {
         "id": 601,
         "img": "/images/index-bg1.jpg",
-        "title": "喵公子",
-        "tags": ["发布页", "激励广告"]
+        "title": "QQ阅读",
+        "tags": ["官方网站", "激励广告"]
       },
       {
         "id": 602,
         "img": "/images/index-bg1.jpg",
-        "title": "一程·书源",
-        "tags": ["阅读书源", "激励广告"]
-      },
-      {
-        "id": 603,
-        "img": "/images/index-bg1.jpg",
-        "title": "黑猫小说",
-        "tags": ["小说APP", "激励广告"]
-      },
-      {
-        "id": 604,
-        "img": "/images/index-bg1.jpg",
-        "title": "飞鸟听书",
-        "tags": ["听书APP", "激励广告"]
+        "title": "等待添加",
+        "tags": ["等待添加", "激励广告"]
       }  
     ],	
     "jiekou": [
       {
         "id": 701,
         "img": "/images/index-bg1.jpg",
-        "title": "影界·接口",
-        "tags": ["250407", "激励广告"]
+        "title": "QQ频道",
+        "tags": ["官方网站", "激励广告"]
       },
       {
         "id": 702,
         "img": "/images/index-bg1.jpg",
-        "title": "影界·备用",
-        "tags": ["备用接口", "激励广告"]
-      },
-      {
-        "id": 703,
-        "img": "/images/index-bg1.jpg",
-        "title": "FuLi·接口",
-        "tags": ["福利接口", "激励广告"]
-      },
-      {
-        "id": 704,
-        "img": "/images/index-bg1.jpg",
-        "title": "饭太硬",
-        "tags": ["大佬接口", "激励广告"]
-      },
-      {
-        "id": 705,
-        "img": "/images/index-bg1.jpg",
-        "title": "欧歌",
-        "tags": ["大佬接口", "激励广告"]
-      },
-      {
-        "id": 706,
-        "img": "/images/index-bg1.jpg",
-        "title": "王二小放牛娃",
-        "tags": ["大佬接口", "激励广告"]
-      }      
+        "title": "等待添加",
+        "tags": ["等待添加", "激励广告"]
+      }     
     ],	
     "fenlei": [
       {
         "id": 801,
         "img": "/images/index-bg1.jpg",
-        "title": "HEU_KMS",
-        "tags": ["激活工具", "激励广告"]
+        "title": "网易云音乐",
+        "tags": ["官方网站", "激励广告"]
       },
       {
         "id": 802,
         "img": "/images/index-bg1.jpg",
-        "title": "Watt Toolkit",
-        "tags": ["steam++", "激励广告"]
-      },
-      {
-        "id": 803,
-        "img": "/images/index-bg1.jpg",
-        "title": "IDM激活工具",
-        "tags": ["激活工具", "激励广告"]
+        "title": "等待添加",
+        "tags": ["等待添加", "激励广告"]
       }
     ]	
     },
@@ -322,283 +196,67 @@
       "desc": "备用链接",
       "text": "点击复制链接",
       "link": "https://zhijiantv.netlify.app/"
-    },
-    "103": {
-      "title": "影界 | TVBox",
-      "img": "/images/index-bg1.jpg",
-      "content": "横牫魔改TVBox，免费观影软件",
-      "desc": "影界发布页",
-      "text": "点击复制链接",
-      "link": "https://zhijiantv.netlify.app/html/app"
     },	    
     "201": {
-      "title": "应用管家",
+      "title": "应用宝",
       "img": "/images/index-bg1.jpg",
-      "content": "电视/车机的应用管理app",
-      "desc": "官网网盘",
-      "text": "点击复制链接",
-      "link": "https://www.123pan.cn/s/k7plVv-kxHtv"
-    },	    
-    "202": {
-      "title": "柚子下载",
-      "img": "/images/index-bg1.jpg",
-      "content": "一个很棒的磁力下载应用",
-      "desc": "官网下载",
-      "text": "点击复制链接",
-      "link": "http://xscy.vip/youzi/"
-    },	
-    "301": {
-      "title": "影视仓",
-      "img": "/images/index-bg1.jpg",
-      "content": "多仓版TVBox，免费观影app",
-      "desc": "官方网盘",
-      "text": "点击复制链接",
-      "link": "https://pan.quark.cn/s/61d324167c07#/list/share"
-    },
-    "302": {
-      "title": "OK影视",
-      "img": "/images/index-bg1.jpg",
-      "content": "单仓版TVBox，免费观影app",
-      "desc": "官方网盘",
-      "text": "点击复制链接",
-      "link": "https://pan.quark.cn/s/6fead79bddaf#/list/share"
-    },
-    "303": {
-      "title": "FongMi影视",
-      "img": "/images/index-bg1.jpg",
-      "content": "单仓版TVBox，免费观影app",
-      "desc": "官方网盘",
-      "text": "点击复制链接",
-      "link": "https://pan.quark.cn/s/b2a52c2577f8#/list/share"
-    },
-    "304": {
-      "title": "好好看",
-      "img": "/images/index-bg1.jpg",
-      "content": "多端免费追剧软件",
-      "desc": "官方发布页",
-      "text": "点击复制链接",
-      "link": "https://dl.hhkan0.com/"
-    },
-    "305": {
-      "title": "大师兄影视",
-      "img": "/images/index-bg1.jpg",
-      "content": "多端免费追剧软件",
-      "desc": "官方发布页",
-      "text": "点击复制链接",
-      "link": "http://dsxys.pro/app/"
-    },
-    "306": {
-      "title": "网飞猫",
-      "img": "/images/index-bg1.jpg",
-      "content": "多端免费追剧软件",
-      "desc": "官方发布页",
-      "text": "点击复制链接",
-      "link": "https://dl.ncat21.com:51111/"
-    },
-    "307": {
-      "title": "可可影视",
-      "img": "/images/index-bg1.jpg",
-      "content": "多端免费追剧软件",
-      "desc": "官方发布页",
-      "text": "点击复制链接",
-      "link": "https://dl.kkys03.com/"
-    },
-    "307": {
-      "title": "小苹果TV",
-      "img": "/images/index-bg1.jpg",
-      "content": "TVBox内置接口版",
-      "desc": "官方发布页",
-      "text": "点击复制链接",
-      "link": "http://xpgtv.com/"
-    },
-    "401": {
-      "title": "OurTV",
-      "img": "/images/index-bg1.jpg",
-      "content": "电视TV软件，跟央视频同包名",
-      "desc": "速度很快，画质清晰",
-      "text": "点击复制链接",
-      "link": "https://www.123865.com/s/pTqA-zVGsA"
-    },
-    "402": {
-      "title": "Simple Live",
-      "img": "/images/index-bg1.jpg",
-      "content": "一款专为直播爱好者打造的聚合型直播软件",
-      "desc": "v1.7.6",
-      "text": "点击复制链接",
-      "link": "https://www.123865.com/s/pTqA-JjGsA"
-    },
-    "402": {
-      "title": "小飞电视",
-      "img": "/images/index-bg1.jpg",
-      "content": "畅享超高清电视直播",
-      "desc": "官网下载",
-      "text": "点击复制链接",
-      "link": "http://y977.com/tv/"
-    }, 
-    "501": {
-      "title": "MusicFree",
-      "img": "/images/index-bg1.jpg",
-      "content": "一个插件化的音乐播放器",
-      "desc": "官网下载地址",
-      "text": "点击复制链接",
-      "link": "https://musicfree.catcat.work/"
-    },    
-    "502": {
-      "title": "洛雪音乐",
-      "img": "/images/index-bg1.jpg",
-      "content": "一个插件化的音乐播放器",
-      "desc": "官网下载地址",
-      "text": "点击复制链接",
-      "link": "https://www.lxmusic.cc/"
-    }, 
-    "503": {
-      "title": "Alger Music",
-      "img": "/images/index-bg1.jpg",
-      "content": "在线音乐播放网站",
-      "desc": "官网地址",
-      "text": "点击复制链接",
-      "link": "http://mc.alger.fun/#/"
-    },  
-    "504": {
-      "title": "聆听音乐",
-      "img": "/images/index-bg1.jpg",
-      "content": "免费音乐app",
-      "desc": "网盘下载",
-      "text": "点击复制链接",
-      "link": "https://dmla.lanzouv.com/b05nwey6f"
-    },  
-    "505": {
-      "title": "青听音乐",
-      "img": "/images/index-bg1.jpg",
-      "content": "v1.0.5最新版",
-      "desc": "网盘下载",
-      "text": "点击复制链接",
-      "link": "https://www.yuque.com/kejichangqing/oldlma/ugoixqhds7aw993x?singleDoc#"
-    },  
-    "506": {
-      "title": "音悦",
-      "img": "/images/index-bg1.jpg",
-      "content": "免费音乐app",
-      "desc": "网盘下载",
-      "text": "点击复制链接",
-      "link": "https://www.123865.com/s/pTqA-TTPsA"
-    },  
-    "507": {
-      "title": "方格音乐",
-      "img": "/images/index-bg1.jpg",
-      "content": "电脑端免费音乐播放器",
+      "content": "电脑上畅玩手机游戏",
       "desc": "官方网站",
       "text": "点击复制链接",
-      "link": "http://fonger.top/"
-    },  
+      "link": "https://sj.qq.com/"
+    },	    	
+    "301": {
+      "title": "腾讯视频",
+      "img": "/images/index-bg1.jpg",
+      "content": "中国领先的在线视频媒体平台",
+      "desc": "官方网站",
+      "text": "点击复制链接",
+      "link": "https://v.qq.com/"
+    },
+    "401": {
+      "title": "央视频",
+      "img": "/images/index-bg1.jpg",
+      "content": "中央广播电视总台基于5G+4K/8K+AI等新技术推出的综合性视听新媒体平台",
+      "desc": "官方网站",
+      "text": "点击复制链接",
+      "link": "https://www.yangshipin.cn/"
+    }, 
+    "501": {
+      "title": "QQ音乐",
+      "img": "/images/index-bg1.jpg",
+      "content": "腾讯公司推出的一款网络音乐服务产品",
+      "desc": "官方网站",
+      "text": "点击复制链接",
+      "link": "https://y.qq.com/"
+    },     
     "601": {
-      "title": "喵公子",
+      "title": "QQ阅读",
       "img": "/images/index-bg1.jpg",
-      "content": "开源阅读下载+阅读书源",
-      "desc": "喵公子发布页",
+      "content": "为您提供海量的免费完结版全本网络小说",
+      "desc": "官方网站",
       "text": "点击复制链接",
-      "link": "http://fb.miaogongzi.cc/"
-    },  
-    "602": {
-      "title": "一程·书源",
-      "img": "/images/index-bg1.jpg",
-      "content": "开源阅读书源",
-      "desc": "一程书源",
-      "text": "点击复制链接",
-      "link": "https://flowus.cn/ycheng/share/923f5a35-6dcf-47d1-b8eb-b9c5ef3ed39b"
-    },  
-    "603": {
-      "title": "黑猫小说",
-      "img": "/images/index-bg1.jpg",
-      "content": "全网小说无限制免费阅读",
-      "desc": "安卓阅读APP",
-      "text": "点击复制链接",
-      "link": "http://heimao.ink/"
-    },  
-    "604": {
-      "title": "飞鸟听书",
-      "img": "/images/index-bg1.jpg",
-      "content": "全网小说免费听书",
-      "desc": "安卓听书APP",
-      "text": "点击复制链接",
-      "link": "http://fn678.top/"
-    },    
+      "link": "https://book.qq.com/"
+    },   
     "701": {
-      "title": "影界-在线接口",
+      "title": "QQ频道",
       "img": "/images/index-bg1.jpg",
-      "content": "横牫自用，不定时更新",
-      "desc": "250409更新接口",
+      "content": "腾讯QQ打造的多元兴趣交流的组织管理工具",
+      "desc": "官方网站",
       "text": "点击复制链接",
-      "link": "https://指尖.top/tv"
-    },    
-    "702": {
-      "title": "影界-备用接口",
-      "img": "/images/index-bg1.jpg",
-      "content": "横牫自用，不定时更新",
-      "desc": "250409更新接口",
-      "text": "点击复制链接",
-      "link": "https://docker.zeronews.cc/zhijian/yingjie/raw/branch/main/jk.json"
-    },    
-    "703": {
-      "title": "FuLi-在线接口",
-      "img": "/images/index-bg1.jpg",
-      "content": "晚上躲被窝里面使用",
-      "desc": "福利接口",
-      "text": "点击复制链接",
-      "link": "https://raw.dgithub.xyz/zhijiantv/yingjie/refs/heads/master/FuLi.json"
-    },    
-    "704": {
-      "title": "饭太硬",
-      "img": "/images/index-bg1.jpg",
-      "content": "神秘的哥哥们-大佬接口",
-      "desc": "大佬接口",
-      "text": "点击复制链接",
-      "link": "http://www.饭太硬.net/tv/"
-    },    
-    "705": {
-      "title": "欧歌",
-      "img": "/images/index-bg1.jpg",
-      "content": "欧歌-大佬接口",
-      "desc": "复制到浏览器打开查看",
-      "text": "点击复制链接",
-      "link": "http://tv.nxog.top/m/"
-    },    
-    "706": {
-      "title": "王二小放牛娃",
-      "img": "/images/index-bg1.jpg",
-      "content": "王二小-大佬接口",
-      "desc": "复制到浏览器打开查看",
-      "text": "点击复制链接",
-      "link": "https://www.xn--4kq62z5rby2qupq9ub.top/"
+      "link": "https://pd.qq.com/g/26728c73m5"
     },    
     "801": {
-      "title": "HEU_KMS",
+      "title": "网易云音乐",
       "img": "/images/index-bg1.jpg",
-      "content": "windows、office激活工具",
-      "desc": "网盘密码：9xum",
+      "content": "一款专注于发现与分享的音乐产品",
+      "desc": "官方网站",
       "text": "点击复制链接",
-      "link": "https://wwi.lanzoup.com/b05gumbe"
-    },    
-    "802": {
-      "title": "Watt Toolkit",
-      "img": "/images/index-bg1.jpg",
-      "content": "是一个开源跨平台的多功能 Steam 工具箱",
-      "desc": "免费加速Github",
-      "text": "点击复制链接",
-      "link": "https://steampp.net/"
-    },    
-    "803": {
-      "title": "IDM激活工具",
-      "img": "/images/index-bg1.jpg",
-      "content": "一键激活IDM下载工具",
-      "desc": "实测可用",
-      "text": "点击复制链接",
-      "link": "https://www.123865.com/s/pTqA-LjGsA"
+      "link": "https://music.163.com/"
     }	
     },
   "notices": [
-    "📢：应用工场：250408新增【柚子下载】",
-    "📢：流畅直播：250408新增【小飞电视】"
+    "📢：250411：小程序维护中",
+    "📢：250411：部分bug修复中"
   ],
   "wallpaperList": [
     {
