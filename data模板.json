@@ -1,0 +1,321 @@
+{	
+  "swiperList": [
+    {      
+      "url":"https://img1.tucang.cc/api/image/show/bf9c086a36282b3a82e118b3c1748988"
+    },
+    {      
+      "url":"https://img1.tucang.cc/api/image/show/69182b97a9514c2c5191f8a27e2aced7"
+    },
+    {      
+      "url":"https://img1.tucang.cc/api/image/show/2fe6af6079cac977874d62910d21f2b7"
+    },
+    {      
+      "url":"https://img1.tucang.cc/api/image/show/2be794277b0a0f831921985ea2a397d9"
+    }
+  ],
+  
+  "sentence": "生活不是等待暴风雨过去，而是学会在雨中起舞",
+
+  "btnList": [
+    {
+      "id": 1,
+      "type": "my",
+      "name": "关于我们",
+      "icon": "/images/my.png"
+    },
+    {
+      "id": 2,
+      "type": "app",
+      "name": "应用工场",
+      "icon": "/images/yygc.png"
+    },
+    {
+      "id": 3,
+      "type": "dianbo",
+      "name": "超清点播",
+      "icon": "/images/dianbo.png"
+    },
+    {
+      "id": 4,
+      "type": "tv",
+      "name": "流畅直播",
+      "icon": "/images/live.png"
+    },
+    {
+      "id": 5,
+      "type": "music",
+      "name": "畅听音乐",
+      "icon": "/images/music.png"
+    },
+    {
+      "id": 6,
+      "type": "yuedu",
+      "name": "开源阅读",
+      "icon": "/images/share.png"
+    },
+    {
+      "id": 7,
+      "type": "jiekou",
+      "name": "在线接口",
+      "icon": "/images/jk.png"
+    },
+    {
+      "id": 8,
+      "type": "fenlei",
+      "name": "查看分类",
+      "icon": "/images/fenlei.png"
+    }
+  ],
+    "listData": {
+    "my": [
+      {
+        "id": 101,
+        "img": "/images/index-bg1.jpg",
+        "title": "指尖 | 导航",
+        "tags": ["指尖网站", "激励广告"]
+      },
+      {
+        "id": 102,
+        "img": "/images/index-bg1.jpg",
+        "title": "指尖 | 备用",
+        "tags": ["指尖网站", "激励广告"]
+      }
+    ],
+    "app": [
+      {
+        "id": 201,
+        "img": "/images/index-bg1.jpg",
+        "title": "应用宝",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 203,
+        "img": "/images/index-bg1.jpg",
+        "title": "等待添加",
+        "tags": ["最新版", "激励广告"]
+      }
+    ],
+    "dianbo": [
+      {
+        "id": 301,
+        "img": "/images/index-bg1.jpg",
+        "title": "腾讯视频",
+        "tags": ["最新版", "激励广告"]
+      },
+      {
+        "id": 302,
+        "img": "/images/index-bg1.jpg",
+        "title": "等待添加",
+        "tags": ["最新版", "激励广告"]
+      }	 	  
+    ],
+    "tv": [
+      {
+        "id": 401,
+        "img": "/images/index-bg1.jpg",
+        "title": "央视频",
+        "tags": ["TV直播", "激励广告"]
+      },
+      {
+        "id": 402,
+        "img": "/images/index-bg1.jpg",
+        "title": "等待添加",
+        "tags": ["最新版", "激励广告"]
+      }	  
+    ],	
+    "music": [
+      {
+        "id": 501,
+        "img": "/images/index-bg1.jpg",
+        "title": "QQ音乐",
+        "tags": ["官网", "激励广告"]
+      },
+      {
+        "id": 502,
+        "img": "/images/index-bg1.jpg",
+        "title": "等待添加",
+        "tags": ["等待添加", "激励广告"]
+      }  
+    ],	
+    "yuedu": [
+      {
+        "id": 601,
+        "img": "/images/index-bg1.jpg",
+        "title": "QQ阅读",
+        "tags": ["官方网站", "激励广告"]
+      },
+      {
+        "id": 602,
+        "img": "/images/index-bg1.jpg",
+        "title": "等待添加",
+        "tags": ["等待添加", "激励广告"]
+      }  
+    ],	
+    "jiekou": [
+      {
+        "id": 701,
+        "img": "/images/index-bg1.jpg",
+        "title": "QQ频道",
+        "tags": ["官方网站", "激励广告"]
+      },
+      {
+        "id": 702,
+        "img": "/images/index-bg1.jpg",
+        "title": "等待添加",
+        "tags": ["等待添加", "激励广告"]
+      }     
+    ],	
+    "fenlei": [
+      {
+        "id": 801,
+        "img": "/images/index-bg1.jpg",
+        "title": "网易云音乐",
+        "tags": ["官方网站", "激励广告"]
+      },
+      {
+        "id": 802,
+        "img": "/images/index-bg1.jpg",
+        "title": "等待添加",
+        "tags": ["等待添加", "激励广告"]
+      }
+    ]	
+    },
+    "ads": {
+    "101": {
+      "title": "指尖 | 导航",
+      "img": "/images/index-bg1.jpg",
+      "content": "横牫自建网站",
+      "desc": "最新链接",
+      "text": "点击复制链接",
+      "link": "https://指尖.top/"
+    },
+    "102": {
+      "title": "指尖 | 备用",
+      "img": "/images/index-bg1.jpg",
+      "content": "横牫自建网站",
+      "desc": "备用链接",
+      "text": "点击复制链接",
+      "link": "https://zhijiantv.netlify.app/"
+    },	    
+    "201": {
+      "title": "应用宝",
+      "img": "/images/index-bg1.jpg",
+      "content": "电脑上畅玩手机游戏",
+      "desc": "官方网站",
+      "text": "点击复制链接",
+      "link": "https://sj.qq.com/"
+    },	    	
+    "301": {
+      "title": "腾讯视频",
+      "img": "/images/index-bg1.jpg",
+      "content": "中国领先的在线视频媒体平台",
+      "desc": "官方网站",
+      "text": "点击复制链接",
+      "link": "https://v.qq.com/"
+    },
+    "401": {
+      "title": "央视频",
+      "img": "/images/index-bg1.jpg",
+      "content": "中央广播电视总台基于5G+4K/8K+AI等新技术推出的综合性视听新媒体平台",
+      "desc": "官方网站",
+      "text": "点击复制链接",
+      "link": "https://www.yangshipin.cn/"
+    }, 
+    "501": {
+      "title": "QQ音乐",
+      "img": "/images/index-bg1.jpg",
+      "content": "腾讯公司推出的一款网络音乐服务产品",
+      "desc": "官方网站",
+      "text": "点击复制链接",
+      "link": "https://y.qq.com/"
+    },     
+    "601": {
+      "title": "QQ阅读",
+      "img": "/images/index-bg1.jpg",
+      "content": "为您提供海量的免费完结版全本网络小说",
+      "desc": "官方网站",
+      "text": "点击复制链接",
+      "link": "https://book.qq.com/"
+    },   
+    "701": {
+      "title": "QQ频道",
+      "img": "/images/index-bg1.jpg",
+      "content": "腾讯QQ打造的多元兴趣交流的组织管理工具",
+      "desc": "官方网站",
+      "text": "点击复制链接",
+      "link": "https://pd.qq.com/g/26728c73m5"
+    },    
+    "801": {
+      "title": "网易云音乐",
+      "img": "/images/index-bg1.jpg",
+      "content": "一款专注于发现与分享的音乐产品",
+      "desc": "官方网站",
+      "text": "点击复制链接",
+      "link": "https://music.163.com/"
+    }	
+    },
+  "notices": [
+    "📢：250411：小程序维护中",
+    "📢：250411：部分bug修复中"
+  ],
+  "wallpaperList": [
+    {
+      "id": 1011,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/08/673c854e393c00938148d799a9284d13.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/08/673c854e393c00938148d799a9284d13.jpg"
+    },    
+    {
+      "id": 1010,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/08/f8ff5578cf7800d190d99b33e8baf11c.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/08/f8ff5578cf7800d190d99b33e8baf11c.jpg"
+    },    
+    {
+      "id": 1009,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/07/593f1933c9fd2e3f552bdbcbd6369e04.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/07/593f1933c9fd2e3f552bdbcbd6369e04.jpg"
+    },     
+    {
+      "id": 1008,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/07/ea7498d5f6db70944ae640ac48e7885d.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/07/ea7498d5f6db70944ae640ac48e7885d.jpg"
+    },      
+    {
+      "id": 1007,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/07/8916d0dc4a20ec170cbdcc7bb0c52a81.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/07/8916d0dc4a20ec170cbdcc7bb0c52a81.jpg"
+    },    
+    {
+      "id": 1006,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/07/aa9fb2f8df457eda07e38df7ff5b2bd9.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/07/aa9fb2f8df457eda07e38df7ff5b2bd9.jpg"
+    },
+    {
+      "id": 1001,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/06/ebb9fe490f912673e11db6c7b98cc561.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/06/ebb9fe490f912673e11db6c7b98cc561.jpg"
+    },
+    {
+      "id": 1002,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/06/e20a346d930141912d72faa1d5feaf19.webp",
+      "url": "https://s1.imagehub.cc/images/2025/04/06/e20a346d930141912d72faa1d5feaf19.webp"
+    },
+    {
+      "id": 1003,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/06/2df63ebe68ad71bdcfffdb16b4d7a554.webp",
+      "url": "https://s1.imagehub.cc/images/2025/04/06/2df63ebe68ad71bdcfffdb16b4d7a554.webp"
+    },
+    {
+      "id": 1004,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/06/3a8fe572383f394eb6e201ca870bf564.png",
+      "url": "https://s1.imagehub.cc/images/2025/04/06/3a8fe572383f394eb6e201ca870bf564.png"
+    },
+    {
+      "id": 1005,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/06/51510e79f4b496409467c9aa64f6c9ed.webp",
+      "url": "https://s1.imagehub.cc/images/2025/04/06/51510e79f4b496409467c9aa64f6c9ed.webp"
+    }
+  ]
+
+}
+
+
