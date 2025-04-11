@@ -73,6 +73,12 @@
         "img": "/images/index-bg1.jpg",
         "title": "小程序 | 开发者工具",
         "tags": ["官网", "激励广告"]
+      },
+      {
+        "id": 102,
+        "img": "/images/index-bg1.jpg",
+        "title": "等待添加",
+        "tags": ["最新版", "激励广告"]
       }
     ],
     "app": [
