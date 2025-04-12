@@ -251,6 +251,12 @@
         "img": "/images/index-bg1.jpg",
         "title": "飞鸟听书",
         "tags": ["听书APP", "激励广告"]
+      },
+      {
+        "id": 605,
+        "img": "/images/index-bg1.jpg",
+        "title": "起源书阁",
+        "tags": ["内置阅读", "激励广告"]
       }  
     ],	
     "jiekou": [
@@ -445,11 +451,11 @@
       "title": "Simple Live",
       "img": "/images/index-bg1.jpg",
       "content": "一款专为直播爱好者打造的聚合型直播软件",
-      "desc": "v1.7.6",
+      "desc": "网盘收集了：手机版+TV版，不定时更新",
       "text": "点击复制链接",
-      "link": "https://www.123865.com/s/pTqA-JjGsA"
+      "link": "https://www.123865.com/s/pTqA-JhPsA"
     },
-    "402": {
+    "403": {
       "title": "小飞电视",
       "img": "/images/index-bg1.jpg",
       "content": "畅享超高清电视直播",
@@ -544,6 +550,14 @@
       "desc": "安卓听书APP",
       "text": "点击复制链接",
       "link": "http://fn678.top/"
+    },  
+    "605": {
+      "title": "起源书阁",
+      "img": "https://s1.imagehub.cc/images/2025/04/12/f427247a1fbe253832839eb39917a42b.jpg",
+      "content": "一款内置超多书源的免费小说阅读app",
+      "desc": "v1.5.4",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-V3PsA"
     },    
     "701": {
       "title": "影界-在线接口",
@@ -623,6 +637,11 @@
     "📢：流畅直播：250408新增【小飞电视】"
   ],
   "wallpaperList": [
+    {
+      "id": 1012,
+      "thumb": "https://xn--5et74n.top/zhijian/bizhi/bizhi12.jpg",
+      "url": "https://xn--5et74n.top/zhijian/bizhi/bizhi12.jpg"
+    },    
     {
       "id": 1011,
       "thumb": "https://s1.imagehub.cc/images/2025/04/08/673c854e393c00938148d799a9284d13.jpg",
