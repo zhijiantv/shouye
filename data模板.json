@@ -70,8 +70,10 @@
     "my": [
       {
         "id": 101,
+        "type": "web",
         "img": "/images/index-bg1.jpg",
         "title": "小程序 | 开发者工具",
+        "webUrl": "https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html",
         "tags": ["官网", "激励广告"]
       },
       {
