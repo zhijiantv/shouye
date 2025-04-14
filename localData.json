@@ -322,13 +322,11 @@
     },
     "ads": {
     "101": {
-      "type": "web",
       "title": "指尖 | 导航",
       "img": "/images/index-bg1.jpg",
       "content": "横牫自建网站",
       "desc": "最新链接",
       "text": "点击复制链接",
-      "url": "https://指尖.top/",
       "link": "https://指尖.top/"
     },
     "102": {
