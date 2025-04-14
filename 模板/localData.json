@@ -70,8 +70,10 @@
     "my": [
       {
         "id": 101,
+        "type": "web",
         "img": "/images/index-bg1.jpg",
         "title": "指尖 | 导航",
+        "webUrl": "https://xn--5et74n.top/",
         "tags": ["指尖网站", "激励广告"]
       },
       {
@@ -441,7 +443,7 @@
     },
     "401": {
       "title": "OurTV",
-      "img": "/images/index-bg1.jpg",
+      "img": "https://s1.imagehub.cc/images/2025/04/14/f9de01e5bb5caedee2004e77e38803ff.png",
       "content": "电视TV软件，跟央视频同包名",
       "desc": "速度很快，画质清晰",
       "text": "点击复制链接",
@@ -457,7 +459,7 @@
     },
     "403": {
       "title": "小飞电视",
-      "img": "/images/index-bg1.jpg",
+      "img": "https://s1.imagehub.cc/images/2025/04/14/54812ad373fe518c290c05883ead2f45.png",
       "content": "畅享超高清电视直播",
       "desc": "官网下载",
       "text": "点击复制链接",
@@ -633,10 +635,45 @@
     }	
     },
   "notices": [
-    "📢：应用工场：250408新增【柚子下载】",
-    "📢：流畅直播：250408新增【小飞电视】"
+    "📢：250414：微信小程序全新上线！",
+    "📢：功能介绍：点击图片可以放大查看！"
   ],
   "wallpaperList": [
+    {
+      "id": 1019,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/14/4657efe380592b13f36c6e84ca4c72d1.png",
+      "url": "https://s1.imagehub.cc/images/2025/04/14/4657efe380592b13f36c6e84ca4c72d1.png"
+    },    
+    {
+      "id": 1018,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/14/178197617e05e074c83a7290332d0de5.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/14/178197617e05e074c83a7290332d0de5.jpg"
+    },    
+    {
+      "id": 1017,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/14/f10ec5c0a126703fb65babb8268b319d.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/14/f10ec5c0a126703fb65babb8268b319d.jpg"
+    },     
+    {
+      "id": 1016,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/14/726ab1a40205373fe8e3bc810c601495.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/14/726ab1a40205373fe8e3bc810c601495.jpg"
+    },    
+    {
+      "id": 1015,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/14/21c127c91cd1d9f04a854886f3839f60.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/14/21c127c91cd1d9f04a854886f3839f60.jpg"
+    },    
+    {
+      "id": 1014,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/14/05e66aa513ff0bf8e16a28baa523a76d.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/14/05e66aa513ff0bf8e16a28baa523a76d.jpg"
+    },     
+    {
+      "id": 1013,
+      "thumb": "https://s1.imagehub.cc/images/2025/04/14/031f5cecd2771438522c5c83a3713bdc.jpg",
+      "url": "https://s1.imagehub.cc/images/2025/04/14/031f5cecd2771438522c5c83a3713bdc.jpg"
+    },    
     {
       "id": 1012,
       "thumb": "https://xn--5et74n.top/zhijian/bizhi/bizhi12.jpg",
