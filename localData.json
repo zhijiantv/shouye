@@ -74,19 +74,33 @@
         "img": "/images/index-bg1.jpg",
         "title": "指尖 | 导航",
         "webUrl": "https://xn--5et74n.top/",
-        "tags": ["指尖网站", "激励广告"]
+        "tags": ["指尖网站", "在线浏览"]
       },
       {
         "id": 102,
+        "type": "web",
         "img": "/images/index-bg1.jpg",
-        "title": "指尖 | 备用",
-        "tags": ["指尖网站", "激励广告"]
+        "title": "指尖 | 影视",
+        "webUrl": "https://xn--5et74n.top/yingshi/",
+        "tags": ["指尖网站", "在线浏览"]
       },
       {
         "id": 103,
         "img": "/images/index-bg1.jpg",
+        "title": "指尖 | 导航",
+        "tags": ["获取链接", "激励广告"]
+      },
+      {
+        "id": 104,
+        "img": "/images/index-bg1.jpg",
+        "title": "指尖 | 影视",
+        "tags": ["获取链接", "激励广告"]
+      },
+      {
+        "id": 105,
+        "img": "/images/index-bg1.jpg",
         "title": "影界 | TVBox",
-        "tags": ["250407", "激励广告"]
+        "tags": ["追剧app", "激励广告"]
       }
     ],
     "app": [
@@ -321,7 +335,7 @@
     ]	
     },
     "ads": {
-    "101": {
+    "103": {
       "title": "指尖 | 导航",
       "img": "/images/index-bg1.jpg",
       "content": "横牫自建网站",
@@ -329,15 +343,15 @@
       "text": "点击复制链接",
       "link": "https://指尖.top/"
     },
-    "102": {
-      "title": "指尖 | 备用",
+    "104": {
+      "title": "指尖 | 影视",
       "img": "/images/index-bg1.jpg",
       "content": "横牫自建网站",
-      "desc": "备用链接",
+      "desc": "最新链接",
       "text": "点击复制链接",
-      "link": "https://zhijiantv.netlify.app/"
+      "link": "https://指尖.top/yingshi/"
     },
-    "103": {
+    "105": {
       "title": "影界 | TVBox",
       "img": "/images/index-bg1.jpg",
       "content": "横牫魔改TVBox，免费观影软件",
