@@ -70,23 +70,21 @@
     "my": [
       {
         "id": 101,
-        "type": "web",
         "img": "/images/index-bg1.jpg",
         "title": "指尖 | 导航",
-        "webUrl": "https://xn--5et74n.top/",
         "tags": ["指尖网站", "激励广告"]
       },
       {
         "id": 102,
         "img": "/images/index-bg1.jpg",
-        "title": "指尖 | 备用",
+        "title": "指尖 | 影视",
         "tags": ["指尖网站", "激励广告"]
       },
       {
         "id": 103,
         "img": "/images/index-bg1.jpg",
         "title": "影界 | TVBox",
-        "tags": ["250407", "激励广告"]
+        "tags": ["追剧app", "激励广告"]
       }
     ],
     "app": [
@@ -176,14 +174,20 @@
         "id": 402,
         "img": "/images/index-bg1.jpg",
         "title": "Simple Live",
-        "tags": ["最新版", "激励广告"]
+        "tags": ["网盘下载", "激励广告"]
       },
       {
         "id": 403,
         "img": "/images/index-bg1.jpg",
         "title": "小飞电视",
         "tags": ["官方网站", "激励广告"]
-      }		  
+      },
+      {
+        "id": 404,
+        "img": "/images/index-bg1.jpg",
+        "title": "纯粹直播",
+        "tags": ["网盘下载", "激励广告"]
+      }			  
     ],	
     "music": [
       {
@@ -330,12 +334,12 @@
       "link": "https://指尖.top/"
     },
     "102": {
-      "title": "指尖 | 备用",
-      "img": "/images/index-bg1.jpg",
+      "title": "指尖 | 影视",
+      "img": "https://s1.imagehub.cc/images/2025/04/15/52b8b9317915ea9a54b37f4122a12e11.jpg",
       "content": "横牫自建网站",
-      "desc": "备用链接",
+      "desc": "最新链接",
       "text": "点击复制链接",
-      "link": "https://zhijiantv.netlify.app/"
+      "link": "https://指尖.top/yingshi/"
     },
     "103": {
       "title": "影界 | TVBox",
@@ -464,6 +468,14 @@
       "desc": "官网下载",
       "text": "点击复制链接",
       "link": "http://y977.com/tv/"
+    },
+    "404": {
+      "title": "纯粹直播",
+      "img": "https://s1.imagehub.cc/images/2025/04/16/e10276799b3bab01de1964f1276c4d92.png",
+      "content": "一款专为直播爱好者打造的聚合型直播软件",
+      "desc": "网盘收集了：手机版+TV版，不定时更新",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-49PsA"
     }, 
     "501": {
       "title": "MusicFree",
