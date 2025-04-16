@@ -174,14 +174,20 @@
         "id": 402,
         "img": "/images/index-bg1.jpg",
         "title": "Simple Live",
-        "tags": ["最新版", "激励广告"]
+        "tags": ["网盘下载", "激励广告"]
       },
       {
         "id": 403,
         "img": "/images/index-bg1.jpg",
         "title": "小飞电视",
         "tags": ["官方网站", "激励广告"]
-      }		  
+      },
+      {
+        "id": 404,
+        "img": "/images/index-bg1.jpg",
+        "title": "纯粹直播",
+        "tags": ["网盘下载", "激励广告"]
+      }			  
     ],	
     "music": [
       {
@@ -462,6 +468,14 @@
       "desc": "官网下载",
       "text": "点击复制链接",
       "link": "http://y977.com/tv/"
+    },
+    "404": {
+      "title": "纯粹直播",
+      "img": "https://s1.imagehub.cc/images/2025/04/16/e10276799b3bab01de1964f1276c4d92.png",
+      "content": "一款专为直播爱好者打造的聚合型直播软件",
+      "desc": "网盘收集了：手机版+TV版，不定时更新",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-49PsA"
     }, 
     "501": {
       "title": "MusicFree",
