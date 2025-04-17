@@ -111,6 +111,12 @@
         "img": "/images/index-bg1.jpg",
         "title": "超强磁力搜索",
         "tags": ["磁力搜索", "激励广告"]
+      },
+      {
+        "id": 205,
+        "img": "/images/index-bg1.jpg",
+        "title": "无极壳子",
+        "tags": ["聚合资源", "激励广告"]
       }
     ],
     "dianbo": [
@@ -380,6 +386,14 @@
       "desc": "v1.1.1",
       "text": "点击复制链接",
       "link": "https://www.123865.com/s/pTqA-D3PsA"
+    },	    
+    "205": {
+      "title": "无极壳子",
+      "img": "https://s1.imagehub.cc/images/2025/04/17/dd872675a3e88ac838734374c46f1071.png",
+      "content": "一款支持电脑和手机端的聚合资源壳子软件，包含：图片、音乐、影视、小说等",
+      "desc": "v0.1.8",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-ioPsA"
     },	
     "301": {
       "title": "影视仓",
