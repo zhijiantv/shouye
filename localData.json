@@ -86,6 +86,12 @@
       {
         "id": 103,
         "img": "/images/index-bg1.jpg",
+        "title": "指尖 | 博客",
+        "tags": ["指尖网站", "激励广告"]
+      },
+      {
+        "id": 104,
+        "img": "/images/index-bg1.jpg",
         "title": "影界 | TVBox",
         "tags": ["追剧app", "激励广告"]
       }
@@ -353,6 +359,15 @@
       "link": "https://指尖.top/yingshi/"
     },
     "103": {
+      "title": "指尖 | 博客",
+      "img": "https://s1.imagehub.cc/images/2025/04/20/47449f67b8bc7b01cafca6f469cc6008.jpg",
+      "usetext": "点击底部“广告查看”，看完30秒广告后，复制链接到浏览器打开！",
+      "content": "横牫自建博客，主要用来分享免费资源",
+      "desc": "最新链接",
+      "text": "点击复制链接",
+      "link": "https://zjblog.netlify.app/"
+    },
+    "104": {
       "title": "影界 | TVBox",
       "img": "/images/index-bg1.jpg",
       "usetext": "点击底部“广告查看”，看完30秒广告后，复制链接到浏览器打开！",
