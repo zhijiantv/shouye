@@ -126,6 +126,12 @@
         "img": "/images/index-bg1.jpg",
         "title": "无极壳子",
         "tags": ["聚合资源", "激励广告"]
+      },
+      {
+        "id": 206,
+        "img": "/images/index-bg1.jpg",
+        "title": "搜藏家",
+        "tags": ["聚合资源", "激励广告"]
       }
     ],
     "dianbo": [
@@ -420,6 +426,15 @@
       "desc": "v0.1.8",
       "text": "点击复制链接",
       "link": "https://www.123865.com/s/pTqA-ioPsA"
+    },	    
+    "205": {
+      "title": "搜藏家",
+      "img": "https://s1.imagehub.cc/images/2025/04/24/613b680fc5eb8c8b4ab02c51beff4d26.jpg",
+      "usetext": "点击底部“广告查看”，看完30秒广告后，复制链接到浏览器打开！",
+      "content": "一款手机端的聚合资源工具软件，包含：磁力、音乐、影视、小说等",
+      "desc": "v1.0.0",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-PDPsA"
     },	
     "301": {
       "title": "影视仓",
