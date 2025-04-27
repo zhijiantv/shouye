@@ -342,6 +342,36 @@
         "img": "/images/index-bg1.jpg",
         "title": "IDM激活工具",
         "tags": ["激活工具", "激励广告"]
+      },
+      {
+        "id": 804,
+        "img": "/images/index-bg1.jpg",
+        "title": "系统库",
+        "tags": ["系统下载", "激励广告"]
+      },
+      {
+        "id": 805,
+        "img": "/images/index-bg1.jpg",
+        "title": "Ventoy",
+        "tags": ["U盘工具", "激励广告"]
+      },
+      {
+        "id": 806,
+        "img": "/images/index-bg1.jpg",
+        "title": "FirPE",
+        "tags": ["U盘工具", "激励广告"]
+      },
+      {
+        "id": 807,
+        "img": "/images/index-bg1.jpg",
+        "title": "Gopeed",
+        "tags": ["下载工具", "激励广告"]
+      },
+      {
+        "id": 808,
+        "img": "/images/index-bg1.jpg",
+        "title": "迅雷",
+        "tags": ["下载工具", "激励广告"]
       }
     ]	
     },
@@ -732,6 +762,51 @@
       "desc": "实测可用",
       "text": "点击复制链接",
       "link": "https://www.123865.com/s/pTqA-LjGsA"
+    },    
+    "804": {
+      "title": "系统库",
+      "img": "/images/index-bg1.jpg",
+      "usetext": "点击底部“广告查看”，看完30秒广告后，复制链接到浏览器打开！",
+      "content": "系统库是一个免费提供MSDN原版Windows系统和原版office下载与安装指引的网站",
+      "desc": "系统库官网",
+      "text": "点击复制链接",
+      "link": "https://www.xitongku.com/"
+    },    
+    "805": {
+      "title": "Ventoy",
+      "img": "/images/index-bg1.jpg",
+      "usetext": "点击底部“广告查看”，看完30秒广告后，复制链接到浏览器打开！",
+      "content": "Ventoy是一个制作可启动U盘的开源工具",
+      "desc": "蓝奏云：下载地址",
+      "text": "点击复制链接",
+      "link": "https://www.lanzoui.com/b01bd54gb"
+    },    
+    "806": {
+      "title": "FirPE",
+      "img": "/images/index-bg1.jpg",
+      "usetext": "点击底部“广告查看”，看完30秒广告后，复制链接到浏览器打开！",
+      "content": "FirPE 是一款系统预安装环境（Windows PE），它具有简约、易操作等特点，使用起来十分人性化",
+      "desc": "下载地址",
+      "text": "点击复制链接",
+      "link": "https://silver.yukaidi.com/s/Zmh9?path=%2F"
+    },    
+    "807": {
+      "title": "Gopeed",
+      "img": "/images/index-bg1.jpg",
+      "usetext": "点击底部“广告查看”，看完30秒广告后，复制链接到浏览器打开！",
+      "content": "一款现代的下载器",
+      "desc": "官网下载",
+      "text": "点击复制链接",
+      "link": "https://gopeed.com/zh-CN"
+    },    
+    "808": {
+      "title": "迅雷",
+      "img": "/images/index-bg1.jpg",
+      "usetext": "点击底部“广告查看”，看完30秒广告后，复制链接到浏览器打开！",
+      "content": "横牫找到的一款免费版",
+      "desc": "123云盘：下载",
+      "text": "点击复制链接",
+      "link": "https://www.123865.com/s/pTqA-lePsA"
     }	
     },
   
